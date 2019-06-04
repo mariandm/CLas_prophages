@@ -1,0 +1,936 @@
+1,A4-a.gms.out.faa,gene_1|GeneMark.hmm|378_aa|-|1|1137	>A4_1
+2,A4-a.gms.out.faa,gene_2|GeneMark.hmm|150_aa|-|1275|1727	>A4_1
+3,A4-a.gms.out.faa,gene_3|GeneMark.hmm|56_aa|-|1731|1901	>A4_1
+4,A4-a.gms.out.faa,gene_4|GeneMark.hmm|154_aa|-|2012|2476	>A4_1
+5,A4-a.gms.out.faa,gene_5|GeneMark.hmm|113_aa|+|2546|2887	>A4_1
+6,A4-a.gms.out.faa,gene_6|GeneMark.hmm|405_aa|-|3173|4390	>A4_1
+7,A4-a.gms.out.faa,gene_7|GeneMark.hmm|162_aa|-|4506|4994	>A4_1
+8,A4-a.gms.out.faa,gene_8|GeneMark.hmm|159_aa|-|5249|5728	>A4_1
+9,A4-a.gms.out.faa,gene_9|GeneMark.hmm|340_aa|-|5731|6753	>A4_1
+10,A4-a.gms.out.faa,gene_10|GeneMark.hmm|83_aa|-|6729|6980	>A4_1
+11,A4-a.gms.out.faa,gene_11|GeneMark.hmm|114_aa|-|6977|7321	>A4_1
+12,A4-a.gms.out.faa,gene_12|GeneMark.hmm|195_aa|-|7323|7910	>A4_1
+13,A4-a.gms.out.faa,gene_13|GeneMark.hmm|178_aa|-|7920|8456	>A4_1
+14,A4-a.gms.out.faa,gene_14|GeneMark.hmm|65_aa|-|8457|8654	>A4_1
+15,A4-a.gms.out.faa,gene_15|GeneMark.hmm|162_aa|-|8792|9280	>A4_1
+16,A4-a.gms.out.faa,gene_16|GeneMark.hmm|213_aa|-|9277|9918	>A4_1
+17,A4-a.gms.out.faa,gene_17|GeneMark.hmm|196_aa|-|9961|10551	>A4_1
+18,A4-a.gms.out.faa,gene_18|GeneMark.hmm|35_aa|-|11180|11287	>A4_1
+19,A4-a.gms.out.faa,gene_19|GeneMark.hmm|76_aa|-|11278|11508	>A4_1
+20,A4-a.gms.out.faa,gene_20|GeneMark.hmm|350_aa|-|11518|12570	>A4_1
+21,A4-a.gms.out.faa,gene_21|GeneMark.hmm|92_aa|-|12820|13098	>A4_1
+22,A4-a.gms.out.faa,gene_22|GeneMark.hmm|163_aa|-|13082|13573	>A4_1
+23,A4-a.gms.out.faa,gene_23|GeneMark.hmm|65_aa|-|13560|13757	>A4_1
+24,A4-a.gms.out.faa,gene_24|GeneMark.hmm|50_aa|-|13738|13890	>A4_1
+25,A4-a.gms.out.faa,gene_25|GeneMark.hmm|122_aa|-|13961|14329	>A4_1
+26,A4-a.gms.out.faa,gene_26|GeneMark.hmm|50_aa|+|15191|15343	>A4_1
+27,A4-a.gms.out.faa,gene_27|GeneMark.hmm|83_aa|+|15882|16133	>A4_1
+28,A4-a.gms.out.faa,gene_28|GeneMark.hmm|266_aa|+|17100|17900	>A4_1
+29,A4-a.gms.out.faa,gene_29|GeneMark.hmm|33_aa|+|18296|18397	>A4_1
+30,A4-a.gms.out.faa,gene_30|GeneMark.hmm|38_aa|+|18391|18507	>A4_1
+31,A4-a.gms.out.faa,gene_31|GeneMark.hmm|152_aa|+|18500|18958	>A4_1
+32,A4-b.gms.out.faa,gene_1|GeneMark.hmm|233_aa|-|1|702	>A4_2
+33,A4-b.gms.out.faa,gene_2|GeneMark.hmm|136_aa|+|815|1225	>A4_2
+34,A4-b.gms.out.faa,gene_3|GeneMark.hmm|198_aa|+|1230|1826	>A4_2
+35,A4-b.gms.out.faa,gene_4|GeneMark.hmm|675_aa|+|1829|3856	>A4_2
+36,A4-b.gms.out.faa,gene_5|GeneMark.hmm|98_aa|+|3853|4149	>A4_2
+37,A4-b.gms.out.faa,gene_6|GeneMark.hmm|460_aa|+|4140|5522	>A4_2
+38,A4-b.gms.out.faa,gene_7|GeneMark.hmm|119_aa|+|5515|5874	>A4_2
+39,A4-b.gms.out.faa,gene_8|GeneMark.hmm|190_aa|+|5876|6448	>A4_2
+40,A4-b.gms.out.faa,gene_9|GeneMark.hmm|146_aa|+|6520|6960	>A4_2
+41,A4-b.gms.out.faa,gene_10|GeneMark.hmm|315_aa|+|7171|8118	>A4_2
+42,A4-b.gms.out.faa,gene_11|GeneMark.hmm|157_aa|-|8164|8637	>A4_2
+43,A4-b.gms.out.faa,gene_12|GeneMark.hmm|90_aa|-|8634|8906	>A4_2
+44,A4-b.gms.out.faa,gene_13|GeneMark.hmm|51_aa|-|8994|9149	>A4_2
+45,A4-b.gms.out.faa,gene_14|GeneMark.hmm|314_aa|+|9474|10418	>A4_2
+46,A4-b.gms.out.faa,gene_15|GeneMark.hmm|158_aa|-|10439|10915	>A4_2
+47,A4-b.gms.out.faa,gene_16|GeneMark.hmm|90_aa|-|10912|11184	>A4_2
+48,A4-b.gms.out.faa,gene_17|GeneMark.hmm|336_aa|-|11177|12187	>A4_2
+49,A4-b.gms.out.faa,gene_18|GeneMark.hmm|810_aa|-|12184|14616	>A4_2
+50,A4-b.gms.out.faa,gene_19|GeneMark.hmm|407_aa|-|14613|15836	>A4_2
+51,A4-b.gms.out.faa,gene_20|GeneMark.hmm|753_aa|-|15820|18081	>A4_2
+52,A4-b.gms.out.faa,gene_21|GeneMark.hmm|162_aa|-|18083|18571	>A4_2
+53,A4-b.gms.out.faa,gene_22|GeneMark.hmm|576_aa|-|18573|20303	>A4_2
+54,A4-b.gms.out.faa,gene_23|GeneMark.hmm|590_aa|-|20310|22082	>A4_2
+55,A4-b.gms.out.faa,gene_24|GeneMark.hmm|171_aa|-|22075|22590	>A4_2
+56,A4-b.gms.out.faa,gene_25|GeneMark.hmm|343_aa|-|22590|23621	>A4_2
+57,A4-b.gms.out.faa,gene_26|GeneMark.hmm|246_aa|-|23634|24374	>A4_2
+58,A4-b.gms.out.faa,gene_27|GeneMark.hmm|90_aa|-|24386|24658	>A4_2
+59,A4-b.gms.out.faa,gene_28|GeneMark.hmm|539_aa|-|24655|26274	>A4_2
+60,A4-b.gms.out.faa,gene_29|GeneMark.hmm|516_aa|-|26277|27827	>A4_2
+61,A4-b.gms.out.faa,gene_30|GeneMark.hmm|162_aa|-|28362|28850	>A4_2
+62,A4-b.gms.out.faa,gene_31|GeneMark.hmm|181_aa|-|30231|30776	>A4_2
+63,A4-b.gms.out.faa,gene_32|GeneMark.hmm|73_aa|+|31003|31224	>A4_2
+64,A4-b.gms.out.faa,gene_33|GeneMark.hmm|130_aa|+|31307|31699	>A4_2
+65,A4-b.gms.out.faa,gene_34|GeneMark.hmm|68_aa|+|31836|32042	>A4_2
+66,A4-b.gms.out.faa,gene_35|GeneMark.hmm|80_aa|+|32035|32277	>A4_2
+67,A4-b.gms.out.faa,gene_36|GeneMark.hmm|134_aa|+|32278|32682	>A4_2
+68,A4-b.gms.out.faa,gene_37|GeneMark.hmm|61_aa|+|32795|32980	>A4_2
+69,A4-b.gms.out.faa,gene_38|GeneMark.hmm|125_aa|-|33211|33588	>A4_2
+70,A4-b.gms.out.faa,gene_39|GeneMark.hmm|273_aa|-|33636|34457	>A4_2
+71,A4-b.gms.out.faa,gene_40|GeneMark.hmm|488_aa|-|34550|36016	>A4_2
+72,A4-b.gms.out.faa,gene_41|GeneMark.hmm|129_aa|-|36017|36406	>A4_2
+73,A4-b.gms.out.faa,gene_42|GeneMark.hmm|68_aa|-|36424|36630	>A4_2
+74,A4-b.gms.out.faa,gene_43|GeneMark.hmm|61_aa|-|36709|36894	>A4_2
+75,A4-b.gms.out.faa,gene_44|GeneMark.hmm|123_aa|+|37091|37462	>A4_2
+76,A4-b.gms.out.faa,gene_45|GeneMark.hmm|107_aa|+|37552|37875	>A4_2
+77,A4-b.gms.out.faa,gene_46|GeneMark.hmm|388_aa|+|38003|39169	>A4_2
+78,A4-b.gms.out.faa,gene_47|GeneMark.hmm|262_aa|+|39340|40128	>A4_2
+79,A4-b.gms.out.faa,gene_48|GeneMark.hmm|216_aa|+|40147|40797	>A4_2
+80,A4-b.gms.out.faa,gene_49|GeneMark.hmm|675_aa|+|40801|42828	>A4_2
+81,A4-b.gms.out.faa,gene_50|GeneMark.hmm|103_aa|+|42825|43136	>A4_2
+82,AHCA1-a-T4.gms.out.faa,gene_1|GeneMark.hmm|159_aa|-|1|480	>AHCA1
+83,AHCA1-a-T4.gms.out.faa,gene_2|GeneMark.hmm|320_aa|-|483|1445	>AHCA1
+84,AHCA1-a-T4.gms.out.faa,gene_3|GeneMark.hmm|83_aa|-|1481|1732	>AHCA1
+85,AHCA1-a-T4.gms.out.faa,gene_4|GeneMark.hmm|114_aa|-|1729|2073	>AHCA1
+86,AHCA1-a-T4.gms.out.faa,gene_5|GeneMark.hmm|195_aa|-|2075|2662	>AHCA1
+87,AHCA1-a-T4.gms.out.faa,gene_6|GeneMark.hmm|178_aa|-|2672|3208	>AHCA1
+88,AHCA1-a-T4.gms.out.faa,gene_7|GeneMark.hmm|57_aa|-|3209|3382	>AHCA1
+89,AHCA1-a-T4.gms.out.faa,gene_8|GeneMark.hmm|44_aa|-|3396|3530	>AHCA1
+90,AHCA1-a-T4.gms.out.faa,gene_9|GeneMark.hmm|162_aa|-|3544|4032	>AHCA1
+91,AHCA1-a-T4.gms.out.faa,gene_10|GeneMark.hmm|169_aa|-|4029|4538	>AHCA1
+92,AHCA1-a-T4.gms.out.faa,gene_11|GeneMark.hmm|196_aa|-|4713|5303	>AHCA1
+93,AHCA1-a-T4.gms.out.faa,gene_12|GeneMark.hmm|38_aa|+|5382|5498	>AHCA1
+94,AHCA1-a-T4.gms.out.faa,gene_13|GeneMark.hmm|82_aa|-|5554|5802	>AHCA1
+95,AHCA1-a-T4.gms.out.faa,gene_14|GeneMark.hmm|35_aa|-|5932|6039	>AHCA1
+96,AHCA1-a-T4.gms.out.faa,gene_15|GeneMark.hmm|76_aa|-|6030|6260	>AHCA1
+97,AHCA1-a-T4.gms.out.faa,gene_16|GeneMark.hmm|350_aa|-|6270|7322	>AHCA1
+98,AHCA1-a-T4.gms.out.faa,gene_17|GeneMark.hmm|62_aa|-|7399|7587	>AHCA1
+99,AHCA1-a-T4.gms.out.faa,gene_18|GeneMark.hmm|251_aa|-|7572|8327	>AHCA1
+100,AHCA1-a-T4.gms.out.faa,gene_19|GeneMark.hmm|49_aa|-|8314|8463	>AHCA1
+101,AHCA1-a-T4.gms.out.faa,gene_20|GeneMark.hmm|84_aa|-|8512|8766	>AHCA1
+102,AHCA1-a-T4.gms.out.faa,gene_21|GeneMark.hmm|122_aa|-|8717|9085	>AHCA1
+103,AHCA1-a-T4.gms.out.faa,gene_22|GeneMark.hmm|83_aa|+|10638|10889	>AHCA1
+104,AHCA1-a-T4.gms.out.faa,gene_23|GeneMark.hmm|47_aa|+|11723|11866	>AHCA1
+105,AHCA1-a-T4.gms.out.faa,gene_24|GeneMark.hmm|266_aa|+|11856|12656	>AHCA1
+106,AHCA1-a-T4.gms.out.faa,gene_25|GeneMark.hmm|48_aa|+|12966|13112	>AHCA1
+107,AHCA1-a-T4.gms.out.faa,gene_26|GeneMark.hmm|38_aa|+|13147|13263	>AHCA1
+108,AHCA1-a-T4.gms.out.faa,gene_27|GeneMark.hmm|152_aa|+|13256|13714	>AHCA1
+109,FL17-a-T4.gms.out.faa,gene_5|GeneMark.hmm|162_aa|-|2564|3052	>FL17_contig1
+110,FL17-a-T4.gms.out.faa,gene_6|GeneMark.hmm|159_aa|-|3307|3786	>FL17_contig1
+111,FL17-a-T4.gms.out.faa,gene_7|GeneMark.hmm|320_aa|-|3789|4751	>FL17_contig1
+112,FL17-a-T4.gms.out.faa,gene_8|GeneMark.hmm|83_aa|-|4787|5038	>FL17_contig1
+113,FL17-a-T4.gms.out.faa,gene_9|GeneMark.hmm|114_aa|-|5035|5379	>FL17_contig1
+114,FL17-a-T4.gms.out.faa,gene_10|GeneMark.hmm|195_aa|-|5381|5968	>FL17_contig1
+115,FL17-a-T4.gms.out.faa,gene_11|GeneMark.hmm|178_aa|-|5978|6514	>FL17_contig1
+116,FL17-a-T4.gms.out.faa,gene_12|GeneMark.hmm|57_aa|-|6515|6688	>FL17_contig1
+117,FL17-a-T4.gms.out.faa,gene_13|GeneMark.hmm|44_aa|-|6702|6836	>FL17_contig1
+118,FL17-a-T4.gms.out.faa,gene_14|GeneMark.hmm|162_aa|-|6850|7338	>FL17_contig1
+119,FL17-a-T4.gms.out.faa,gene_15|GeneMark.hmm|169_aa|-|7335|7844	>FL17_contig1
+120,FL17-a-T4.gms.out.faa,gene_16|GeneMark.hmm|189_aa|-|8019|8588	>FL17_contig1
+121,FL17-a-T4.gms.out.faa,gene_17|GeneMark.hmm|38_aa|+|8688|8804	>FL17_contig1
+122,FL17-a-T4.gms.out.faa,gene_18|GeneMark.hmm|82_aa|-|8860|9108	>FL17_contig1
+123,FL17-a-T4.gms.out.faa,gene_19|GeneMark.hmm|35_aa|-|9238|9345	>FL17_contig1
+124,FL17-a-T4.gms.out.faa,gene_20|GeneMark.hmm|76_aa|-|9336|9566	>FL17_contig1
+125,FL17-a-T4.gms.out.faa,gene_21|GeneMark.hmm|342_aa|-|9576|10604	>FL17_contig1
+126,FL17-a-T4.gms.out.faa,gene_22|GeneMark.hmm|62_aa|-|10705|10893	>FL17_contig1
+127,FL17-a-T4.gms.out.faa,gene_23|GeneMark.hmm|251_aa|-|10878|11633	>FL17_contig1
+128,FL17-a-T4.gms.out.faa,gene_24|GeneMark.hmm|150_aa|-|11620|12072	>FL17_contig1
+129,FL17-a-T4.gms.out.faa,gene_25|GeneMark.hmm|122_aa|-|12023|12391	>FL17_contig1
+130,FL17-a-T4.gms.out.faa,gene_26|GeneMark.hmm|50_aa|+|13253|13405	>FL17_contig1
+131,FL17-a-T4.gms.out.faa,gene_27|GeneMark.hmm|83_aa|+|13944|14195	>FL17_contig1
+132,FL17-a-T4.gms.out.faa,gene_28|GeneMark.hmm|47_aa|+|15029|15172	>FL17_contig1
+133,FL17-a-T4.gms.out.faa,gene_29|GeneMark.hmm|266_aa|+|15162|15962	>FL17_contig1
+134,FL17-a-T4.gms.out.faa,gene_30|GeneMark.hmm|33_aa|+|16358|16459	>FL17_contig1
+135,FL17-a-T4.gms.out.faa,gene_31|GeneMark.hmm|38_aa|+|16453|16569	>FL17_contig1
+136,FL17-a-T4.gms.out.faa,gene_32|GeneMark.hmm|152_aa|+|16562|17020	>FL17_contig1
+137,FL17-b.gms.out.faa,gene_1|GeneMark.hmm|128_aa|-|1|387	>FL17_contig2
+138,FL17-b.gms.out.faa,gene_2|GeneMark.hmm|151_aa|-|656|1111	>FL17_contig2
+139,FL17-b.gms.out.faa,gene_3|GeneMark.hmm|98_aa|-|1335|1631	>FL17_contig2
+140,FL17-b.gms.out.faa,gene_4|GeneMark.hmm|864_aa|-|1638|4232	>FL17_contig2
+141,FL17-b.gms.out.faa,gene_5|GeneMark.hmm|478_aa|-|4229|5665	>FL17_contig2
+142,FL17-b.gms.out.faa,gene_6|GeneMark.hmm|707_aa|-|5683|7806	>FL17_contig2
+143,FL17-b.gms.out.faa,gene_7|GeneMark.hmm|167_aa|-|7803|8306	>FL17_contig2
+144,FL17-b.gms.out.faa,gene_8|GeneMark.hmm|1347_aa|-|8299|12342	>FL17_contig2
+145,FL17-b.gms.out.faa,gene_9|GeneMark.hmm|578_aa|-|12367|14103	>FL17_contig2
+146,FL17-b.gms.out.faa,gene_10|GeneMark.hmm|175_aa|-|14096|14623	>FL17_contig2
+147,FL17-b.gms.out.faa,gene_11|GeneMark.hmm|148_aa|-|14630|15076	>FL17_contig2
+148,FL17-c.gms.out.faa,gene_1|GeneMark.hmm|89_aa|-|1|270	>FL17_contig3
+149,FL17-c.gms.out.faa,gene_2|GeneMark.hmm|233_aa|-|296|997	>FL17_contig3
+150,FL17-c.gms.out.faa,gene_3|GeneMark.hmm|109_aa|-|1008|1337	>FL17_contig3
+151,FL17-c.gms.out.faa,gene_4|GeneMark.hmm|556_aa|-|1330|3000	>FL17_contig3
+152,FL17-c.gms.out.faa,gene_5|GeneMark.hmm|110_aa|-|2997|3329	>FL17_contig3
+153,FL17-c.gms.out.faa,gene_6|GeneMark.hmm|511_aa|-|3402|4937	>FL17_contig3
+154,FL17-c.gms.out.faa,gene_7|GeneMark.hmm|162_aa|-|5472|5960	>FL17_contig3
+155,FL17-c.gms.out.faa,gene_8|GeneMark.hmm|205_aa|-|7066|7683	>FL17_contig3
+156,FL17-c.gms.out.faa,gene_9|GeneMark.hmm|212_aa|+|7853|8491	>FL17_contig3
+157,FL17-c.gms.out.faa,gene_10|GeneMark.hmm|130_aa|+|8514|8906	>FL17_contig3
+158,FL17-c.gms.out.faa,gene_11|GeneMark.hmm|68_aa|+|9043|9249	>FL17_contig3
+159,FL17-c.gms.out.faa,gene_12|GeneMark.hmm|70_aa|+|9242|9454	>FL17_contig3
+160,FL17-c.gms.out.faa,gene_13|GeneMark.hmm|110_aa|+|9486|9818	>FL17_contig3
+161,FL17-c.gms.out.faa,gene_14|GeneMark.hmm|103_aa|-|10073|10384	>FL17_contig3
+162,FL17-c.gms.out.faa,gene_15|GeneMark.hmm|790_aa|-|10432|12804	>FL17_contig3
+163,FL17-c.gms.out.faa,gene_16|GeneMark.hmm|129_aa|-|12805|13194	>FL17_contig3
+164,FL17-c.gms.out.faa,gene_17|GeneMark.hmm|68_aa|-|13212|13418	>FL17_contig3
+165,FP2.gms.out.faa,gene_1|GeneMark.hmm|235_aa|+|1|708	>JF773396.1 Liberibacter phage FP2, complete genome
+166,FP2.gms.out.faa,gene_2|GeneMark.hmm|119_aa|+|701|1060	>JF773396.1 Liberibacter phage FP2, complete genome
+167,FP2.gms.out.faa,gene_3|GeneMark.hmm|190_aa|+|1062|1634	>JF773396.1 Liberibacter phage FP2, complete genome
+168,FP2.gms.out.faa,gene_4|GeneMark.hmm|155_aa|+|1679|2146	>JF773396.1 Liberibacter phage FP2, complete genome
+169,FP2.gms.out.faa,gene_5|GeneMark.hmm|168_aa|+|2357|2863	>JF773396.1 Liberibacter phage FP2, complete genome
+170,FP2.gms.out.faa,gene_6|GeneMark.hmm|157_aa|-|2919|3392	>JF773396.1 Liberibacter phage FP2, complete genome
+171,FP2.gms.out.faa,gene_7|GeneMark.hmm|90_aa|-|3389|3661	>JF773396.1 Liberibacter phage FP2, complete genome
+172,FP2.gms.out.faa,gene_8|GeneMark.hmm|51_aa|-|3749|3904	>JF773396.1 Liberibacter phage FP2, complete genome
+173,FP2.gms.out.faa,gene_9|GeneMark.hmm|314_aa|+|4229|5173	>JF773396.1 Liberibacter phage FP2, complete genome
+174,FP2.gms.out.faa,gene_10|GeneMark.hmm|158_aa|-|5194|5670	>JF773396.1 Liberibacter phage FP2, complete genome
+175,FP2.gms.out.faa,gene_11|GeneMark.hmm|90_aa|-|5667|5939	>JF773396.1 Liberibacter phage FP2, complete genome
+176,FP2.gms.out.faa,gene_12|GeneMark.hmm|341_aa|-|5932|6957	>JF773396.1 Liberibacter phage FP2, complete genome
+177,FP2.gms.out.faa,gene_13|GeneMark.hmm|809_aa|-|6954|9383	>JF773396.1 Liberibacter phage FP2, complete genome
+178,FP2.gms.out.faa,gene_14|GeneMark.hmm|408_aa|-|9380|10606	>JF773396.1 Liberibacter phage FP2, complete genome
+179,FP2.gms.out.faa,gene_15|GeneMark.hmm|753_aa|-|10590|12851	>JF773396.1 Liberibacter phage FP2, complete genome
+180,FP2.gms.out.faa,gene_16|GeneMark.hmm|162_aa|-|12853|13341	>JF773396.1 Liberibacter phage FP2, complete genome
+181,FP2.gms.out.faa,gene_17|GeneMark.hmm|579_aa|-|13343|15082	>JF773396.1 Liberibacter phage FP2, complete genome
+182,FP2.gms.out.faa,gene_18|GeneMark.hmm|590_aa|-|15089|16861	>JF773396.1 Liberibacter phage FP2, complete genome
+183,FP2.gms.out.faa,gene_19|GeneMark.hmm|172_aa|-|16854|17372	>JF773396.1 Liberibacter phage FP2, complete genome
+184,FP2.gms.out.faa,gene_20|GeneMark.hmm|343_aa|-|17369|18400	>JF773396.1 Liberibacter phage FP2, complete genome
+185,FP2.gms.out.faa,gene_21|GeneMark.hmm|246_aa|-|18413|19153	>JF773396.1 Liberibacter phage FP2, complete genome
+186,FP2.gms.out.faa,gene_22|GeneMark.hmm|90_aa|-|19165|19437	>JF773396.1 Liberibacter phage FP2, complete genome
+187,FP2.gms.out.faa,gene_23|GeneMark.hmm|539_aa|-|19434|21053	>JF773396.1 Liberibacter phage FP2, complete genome
+188,FP2.gms.out.faa,gene_24|GeneMark.hmm|516_aa|-|21056|22606	>JF773396.1 Liberibacter phage FP2, complete genome
+189,FP2.gms.out.faa,gene_25|GeneMark.hmm|162_aa|-|23141|23629	>JF773396.1 Liberibacter phage FP2, complete genome
+190,FP2.gms.out.faa,gene_26|GeneMark.hmm|199_aa|-|24981|25580	>JF773396.1 Liberibacter phage FP2, complete genome
+191,FP2.gms.out.faa,gene_27|GeneMark.hmm|73_aa|+|25761|25982	>JF773396.1 Liberibacter phage FP2, complete genome
+192,FP2.gms.out.faa,gene_28|GeneMark.hmm|130_aa|+|26065|26457	>JF773396.1 Liberibacter phage FP2, complete genome
+193,FP2.gms.out.faa,gene_29|GeneMark.hmm|50_aa|+|26593|26745	>JF773396.1 Liberibacter phage FP2, complete genome
+194,FP2.gms.out.faa,gene_30|GeneMark.hmm|82_aa|+|26755|27003	>JF773396.1 Liberibacter phage FP2, complete genome
+195,FP2.gms.out.faa,gene_31|GeneMark.hmm|134_aa|+|27035|27439	>JF773396.1 Liberibacter phage FP2, complete genome
+196,FP2.gms.out.faa,gene_32|GeneMark.hmm|61_aa|+|27552|27737	>JF773396.1 Liberibacter phage FP2, complete genome
+197,FP2.gms.out.faa,gene_33|GeneMark.hmm|125_aa|-|27968|28345	>JF773396.1 Liberibacter phage FP2, complete genome
+198,FP2.gms.out.faa,gene_34|GeneMark.hmm|790_aa|-|28393|30765	>JF773396.1 Liberibacter phage FP2, complete genome
+199,FP2.gms.out.faa,gene_35|GeneMark.hmm|129_aa|-|30766|31155	>JF773396.1 Liberibacter phage FP2, complete genome
+200,FP2.gms.out.faa,gene_36|GeneMark.hmm|68_aa|-|31173|31379	>JF773396.1 Liberibacter phage FP2, complete genome
+201,FP2.gms.out.faa,gene_37|GeneMark.hmm|87_aa|-|31376|31639	>JF773396.1 Liberibacter phage FP2, complete genome
+202,FP2.gms.out.faa,gene_38|GeneMark.hmm|123_aa|+|31846|32217	>JF773396.1 Liberibacter phage FP2, complete genome
+203,FP2.gms.out.faa,gene_39|GeneMark.hmm|107_aa|+|32307|32630	>JF773396.1 Liberibacter phage FP2, complete genome
+204,FP2.gms.out.faa,gene_40|GeneMark.hmm|388_aa|+|32758|33924	>JF773396.1 Liberibacter phage FP2, complete genome
+205,FP2.gms.out.faa,gene_41|GeneMark.hmm|262_aa|+|34095|34883	>JF773396.1 Liberibacter phage FP2, complete genome
+206,FP2.gms.out.faa,gene_42|GeneMark.hmm|216_aa|+|34901|35551	>JF773396.1 Liberibacter phage FP2, complete genome
+207,FP2.gms.out.faa,gene_43|GeneMark.hmm|675_aa|+|35555|37582	>JF773396.1 Liberibacter phage FP2, complete genome
+208,FP2.gms.out.faa,gene_44|GeneMark.hmm|103_aa|+|37579|37890	>JF773396.1 Liberibacter phage FP2, complete genome
+209,FP2.gms.out.faa,gene_45|GeneMark.hmm|226_aa|+|37875|38552	>JF773396.1 Liberibacter phage FP2, complete genome
+210,HHCA1-a.gms.out.faa,gene_1|GeneMark.hmm|178_aa|-|1|537	>HHCA1_contig217
+211,HHCA1-a.gms.out.faa,gene_2|GeneMark.hmm|65_aa|-|538|735	>HHCA1_contig217
+212,HHCA1-a.gms.out.faa,gene_3|GeneMark.hmm|162_aa|-|874|1362	>HHCA1_contig217
+213,HHCA1-a.gms.out.faa,gene_4|GeneMark.hmm|169_aa|-|1359|1868	>HHCA1_contig217
+214,HHCA1-a.gms.out.faa,gene_5|GeneMark.hmm|196_aa|-|2043|2633	>HHCA1_contig217
+215,HHCA1-a.gms.out.faa,gene_6|GeneMark.hmm|82_aa|-|2884|3132	>HHCA1_contig217
+216,HHCA1-a.gms.out.faa,gene_7|GeneMark.hmm|35_aa|-|3262|3369	>HHCA1_contig217
+217,HHCA1-a.gms.out.faa,gene_8|GeneMark.hmm|76_aa|-|3360|3590	>HHCA1_contig217
+218,HHCA1-a.gms.out.faa,gene_9|GeneMark.hmm|350_aa|-|3600|4652	>HHCA1_contig217
+219,HHCA1-a.gms.out.faa,gene_10|GeneMark.hmm|93_aa|-|4729|5010	>HHCA1_contig217
+220,HHCA1-a.gms.out.faa,gene_11|GeneMark.hmm|210_aa|-|5023|5655	>HHCA1_contig217
+221,HHCA1-a.gms.out.faa,gene_12|GeneMark.hmm|150_aa|-|5642|6094	>HHCA1_contig217
+222,Ishi-1-a.gms.out.faa,gene_1|GeneMark.hmm|103_aa|-|1|312	>ishi1
+223,Ishi-1-a.gms.out.faa,gene_2|GeneMark.hmm|378_aa|-|602|1738	>ishi1
+224,Ishi-1-a.gms.out.faa,gene_3|GeneMark.hmm|150_aa|-|1876|2328	>ishi1
+225,Ishi-1-a.gms.out.faa,gene_4|GeneMark.hmm|238_aa|-|2332|3048	>ishi1
+226,Ishi-1-a.gms.out.faa,gene_5|GeneMark.hmm|159_aa|-|3303|3782	>ishi1
+227,Ishi-1-a.gms.out.faa,gene_6|GeneMark.hmm|340_aa|-|3785|4807	>ishi1
+228,Ishi-1-a.gms.out.faa,gene_7|GeneMark.hmm|83_aa|-|4783|5034	>ishi1
+229,Ishi-1-a.gms.out.faa,gene_8|GeneMark.hmm|114_aa|-|5031|5375	>ishi1
+230,Ishi-1-a.gms.out.faa,gene_9|GeneMark.hmm|195_aa|-|5377|5964	>ishi1
+231,Ishi-1-a.gms.out.faa,gene_10|GeneMark.hmm|178_aa|-|5974|6510	>ishi1
+232,Ishi-1-a.gms.out.faa,gene_11|GeneMark.hmm|65_aa|-|6511|6708	>ishi1
+233,Ishi-1-a.gms.out.faa,gene_12|GeneMark.hmm|162_aa|-|6846|7334	>ishi1
+234,Ishi-1-a.gms.out.faa,gene_13|GeneMark.hmm|213_aa|-|7331|7972	>ishi1
+235,Ishi-1-a.gms.out.faa,gene_14|GeneMark.hmm|196_aa|-|8015|8605	>ishi1
+236,Ishi-1-a.gms.out.faa,gene_15|GeneMark.hmm|35_aa|-|9234|9341	>ishi1
+237,Ishi-1-a.gms.out.faa,gene_16|GeneMark.hmm|76_aa|-|9332|9562	>ishi1
+238,Ishi-1-a.gms.out.faa,gene_17|GeneMark.hmm|350_aa|-|9572|10624	>ishi1
+239,Ishi-1-a.gms.out.faa,gene_18|GeneMark.hmm|251_aa|-|10874|11629	>ishi1
+240,Ishi-1-a.gms.out.faa,gene_19|GeneMark.hmm|110_aa|-|11616|11948	>ishi1
+241,Ishi-1-a.gms.out.faa,gene_20|GeneMark.hmm|122_aa|-|12019|12387	>ishi1
+242,Ishi-1-a.gms.out.faa,gene_21|GeneMark.hmm|50_aa|+|13249|13401	>ishi1
+243,Ishi-1-a.gms.out.faa,gene_22|GeneMark.hmm|83_aa|+|13941|14192	>ishi1
+244,Ishi-1-a.gms.out.faa,gene_23|GeneMark.hmm|266_aa|+|15159|15959	>ishi1
+245,Ishi-1-a.gms.out.faa,gene_24|GeneMark.hmm|33_aa|+|16355|16456	>ishi1
+246,Ishi-1-a.gms.out.faa,gene_25|GeneMark.hmm|38_aa|+|16450|16566	>ishi1
+247,Ishi-1-a.gms.out.faa,gene_26|GeneMark.hmm|152_aa|+|16559|17017	>ishi1
+248,JXGC-a.gms.out.faa,gene_1|GeneMark.hmm|378_aa|-|1|1137	>JXGC_1
+249,JXGC-a.gms.out.faa,gene_2|GeneMark.hmm|150_aa|-|1275|1727	>JXGC_1
+250,JXGC-a.gms.out.faa,gene_3|GeneMark.hmm|56_aa|-|1731|1901	>JXGC_1
+251,JXGC-a.gms.out.faa,gene_4|GeneMark.hmm|154_aa|-|2012|2476	>JXGC_1
+252,JXGC-a.gms.out.faa,gene_5|GeneMark.hmm|113_aa|+|2546|2887	>JXGC_1
+253,JXGC-a.gms.out.faa,gene_6|GeneMark.hmm|405_aa|-|3173|4390	>JXGC_1
+254,JXGC-a.gms.out.faa,gene_7|GeneMark.hmm|162_aa|-|4506|4994	>JXGC_1
+255,JXGC-a.gms.out.faa,gene_8|GeneMark.hmm|159_aa|-|5249|5728	>JXGC_1
+256,JXGC-a.gms.out.faa,gene_9|GeneMark.hmm|340_aa|-|5731|6753	>JXGC_1
+257,JXGC-a.gms.out.faa,gene_10|GeneMark.hmm|83_aa|-|6729|6980	>JXGC_1
+258,JXGC-a.gms.out.faa,gene_11|GeneMark.hmm|114_aa|-|6977|7321	>JXGC_1
+259,JXGC-a.gms.out.faa,gene_12|GeneMark.hmm|195_aa|-|7323|7910	>JXGC_1
+260,JXGC-a.gms.out.faa,gene_13|GeneMark.hmm|178_aa|-|7920|8456	>JXGC_1
+261,JXGC-a.gms.out.faa,gene_14|GeneMark.hmm|65_aa|-|8457|8654	>JXGC_1
+262,JXGC-a.gms.out.faa,gene_15|GeneMark.hmm|162_aa|-|8792|9280	>JXGC_1
+263,JXGC-a.gms.out.faa,gene_16|GeneMark.hmm|213_aa|-|9277|9918	>JXGC_1
+264,JXGC-a.gms.out.faa,gene_17|GeneMark.hmm|196_aa|-|9961|10551	>JXGC_1
+265,JXGC-a.gms.out.faa,gene_18|GeneMark.hmm|35_aa|-|11180|11287	>JXGC_1
+266,JXGC-a.gms.out.faa,gene_19|GeneMark.hmm|76_aa|-|11278|11508	>JXGC_1
+267,JXGC-a.gms.out.faa,gene_20|GeneMark.hmm|350_aa|-|11518|12570	>JXGC_1
+268,JXGC-a.gms.out.faa,gene_21|GeneMark.hmm|251_aa|-|12820|13575	>JXGC_1
+269,JXGC-a.gms.out.faa,gene_22|GeneMark.hmm|110_aa|-|13562|13894	>JXGC_1
+270,JXGC-a.gms.out.faa,gene_23|GeneMark.hmm|122_aa|-|13965|14333	>JXGC_1
+271,JXGC-a.gms.out.faa,gene_24|GeneMark.hmm|50_aa|+|15195|15347	>JXGC_1
+272,JXGC-a.gms.out.faa,gene_25|GeneMark.hmm|83_aa|+|15886|16137	>JXGC_1
+273,JXGC-a.gms.out.faa,gene_26|GeneMark.hmm|266_aa|+|17104|17904	>JXGC_1
+274,JXGC-a.gms.out.faa,gene_27|GeneMark.hmm|33_aa|+|18300|18401	>JXGC_1
+275,JXGC-a.gms.out.faa,gene_28|GeneMark.hmm|38_aa|+|18395|18511	>JXGC_1
+276,JXGC-a.gms.out.faa,gene_29|GeneMark.hmm|152_aa|+|18504|18962	>JXGC_1
+277,P-HHCA1-2.gms.out.faa,gene_1|GeneMark.hmm|158_aa|-|11|487	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+278,P-HHCA1-2.gms.out.faa,gene_2|GeneMark.hmm|90_aa|-|484|756	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+279,P-HHCA1-2.gms.out.faa,gene_3|GeneMark.hmm|394_aa|-|749|1933	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+280,P-HHCA1-2.gms.out.faa,gene_4|GeneMark.hmm|810_aa|-|1930|4362	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+281,P-HHCA1-2.gms.out.faa,gene_5|GeneMark.hmm|407_aa|-|4359|5582	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+282,P-HHCA1-2.gms.out.faa,gene_6|GeneMark.hmm|753_aa|-|5566|7827	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+283,P-HHCA1-2.gms.out.faa,gene_7|GeneMark.hmm|162_aa|-|7829|8317	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+284,P-HHCA1-2.gms.out.faa,gene_8|GeneMark.hmm|574_aa|-|8319|10043	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+285,P-HHCA1-2.gms.out.faa,gene_9|GeneMark.hmm|590_aa|-|10050|11822	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+286,P-HHCA1-2.gms.out.faa,gene_10|GeneMark.hmm|171_aa|-|11815|12330	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+287,P-HHCA1-2.gms.out.faa,gene_11|GeneMark.hmm|343_aa|-|12330|13361	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+288,P-HHCA1-2.gms.out.faa,gene_12|GeneMark.hmm|246_aa|-|13374|14114	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+289,P-HHCA1-2.gms.out.faa,gene_13|GeneMark.hmm|90_aa|-|14126|14398	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+290,P-HHCA1-2.gms.out.faa,gene_14|GeneMark.hmm|539_aa|-|14395|16014	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+291,P-HHCA1-2.gms.out.faa,gene_15|GeneMark.hmm|516_aa|-|16017|17567	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+292,P-HHCA1-2.gms.out.faa,gene_16|GeneMark.hmm|162_aa|-|18102|18590	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+293,P-HHCA1-2.gms.out.faa,gene_17|GeneMark.hmm|181_aa|-|19926|20471	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+294,P-HHCA1-2.gms.out.faa,gene_18|GeneMark.hmm|73_aa|+|20681|20902	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+295,P-HHCA1-2.gms.out.faa,gene_19|GeneMark.hmm|130_aa|+|20985|21377	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+296,P-HHCA1-2.gms.out.faa,gene_20|GeneMark.hmm|68_aa|+|21514|21720	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+297,P-HHCA1-2.gms.out.faa,gene_21|GeneMark.hmm|80_aa|+|21713|21955	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+298,P-HHCA1-2.gms.out.faa,gene_22|GeneMark.hmm|110_aa|+|21956|22288	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+299,P-HHCA1-2.gms.out.faa,gene_23|GeneMark.hmm|61_aa|+|22401|22586	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+300,P-HHCA1-2.gms.out.faa,gene_24|GeneMark.hmm|114_aa|-|22817|23161	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+301,P-HHCA1-2.gms.out.faa,gene_25|GeneMark.hmm|790_aa|-|23209|25581	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+302,P-HHCA1-2.gms.out.faa,gene_26|GeneMark.hmm|129_aa|-|25582|25971	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+303,P-HHCA1-2.gms.out.faa,gene_27|GeneMark.hmm|68_aa|-|25989|26195	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+304,P-HHCA1-2.gms.out.faa,gene_28|GeneMark.hmm|89_aa|-|26192|26461	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+305,P-HHCA1-2.gms.out.faa,gene_29|GeneMark.hmm|123_aa|+|26658|27029	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+306,P-HHCA1-2.gms.out.faa,gene_30|GeneMark.hmm|107_aa|+|27119|27442	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+307,P-HHCA1-2.gms.out.faa,gene_31|GeneMark.hmm|388_aa|+|27570|28736	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+308,P-HHCA1-2.gms.out.faa,gene_32|GeneMark.hmm|262_aa|+|28907|29695	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+309,P-HHCA1-2.gms.out.faa,gene_33|GeneMark.hmm|216_aa|+|29714|30364	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+310,P-HHCA1-2.gms.out.faa,gene_34|GeneMark.hmm|675_aa|+|30368|32395	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+311,P-HHCA1-2.gms.out.faa,gene_35|GeneMark.hmm|103_aa|+|32392|32703	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+312,P-HHCA1-2.gms.out.faa,gene_36|GeneMark.hmm|461_aa|+|32688|34073	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+313,P-HHCA1-2.gms.out.faa,gene_37|GeneMark.hmm|119_aa|+|34066|34425	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+314,P-HHCA1-2.gms.out.faa,gene_38|GeneMark.hmm|190_aa|+|34427|34999	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+315,P-HHCA1-2.gms.out.faa,gene_39|GeneMark.hmm|155_aa|+|35044|35511	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+316,P-HHCA1-2.gms.out.faa,gene_40|GeneMark.hmm|315_aa|+|35722|36669	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+317,P-HHCA1-2.gms.out.faa,gene_41|GeneMark.hmm|157_aa|-|36725|37198	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+318,P-HHCA1-2.gms.out.faa,gene_42|GeneMark.hmm|90_aa|-|37195|37467	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+319,P-HHCA1-2.gms.out.faa,gene_43|GeneMark.hmm|51_aa|-|37555|37710	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+320,P-HHCA1-2.gms.out.faa,gene_44|GeneMark.hmm|314_aa|+|38035|38979	>KX879602.1 Liberibacter phage HHCA1-2, complete genome
+321,P-JXGC-3.gms.out.faa,gene_1|GeneMark.hmm|359_aa|+|123|1202	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+322,P-JXGC-3.gms.out.faa,gene_2|GeneMark.hmm|75_aa|+|1679|1906	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+323,P-JXGC-3.gms.out.faa,gene_3|GeneMark.hmm|72_aa|+|1909|2127	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+324,P-JXGC-3.gms.out.faa,gene_4|GeneMark.hmm|80_aa|+|3687|3929	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+325,P-JXGC-3.gms.out.faa,gene_5|GeneMark.hmm|75_aa|+|3922|4149	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+326,P-JXGC-3.gms.out.faa,gene_6|GeneMark.hmm|1016_aa|-|4702|7752	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+327,P-JXGC-3.gms.out.faa,gene_7|GeneMark.hmm|410_aa|-|7756|8988	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+328,P-JXGC-3.gms.out.faa,gene_8|GeneMark.hmm|470_aa|-|9052|10464	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+329,P-JXGC-3.gms.out.faa,gene_9|GeneMark.hmm|496_aa|-|10479|11969	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+330,P-JXGC-3.gms.out.faa,gene_10|GeneMark.hmm|432_aa|-|12109|13407	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+331,P-JXGC-3.gms.out.faa,gene_11|GeneMark.hmm|169_aa|-|13942|14451	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+332,P-JXGC-3.gms.out.faa,gene_12|GeneMark.hmm|181_aa|-|15876|16421	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+333,P-JXGC-3.gms.out.faa,gene_13|GeneMark.hmm|73_aa|+|16631|16852	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+334,P-JXGC-3.gms.out.faa,gene_14|GeneMark.hmm|130_aa|+|16935|17327	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+335,P-JXGC-3.gms.out.faa,gene_15|GeneMark.hmm|68_aa|+|17464|17670	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+336,P-JXGC-3.gms.out.faa,gene_16|GeneMark.hmm|70_aa|+|17663|17875	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+337,P-JXGC-3.gms.out.faa,gene_17|GeneMark.hmm|110_aa|+|17907|18239	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+338,P-JXGC-3.gms.out.faa,gene_18|GeneMark.hmm|61_aa|+|18352|18537	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+339,P-JXGC-3.gms.out.faa,gene_19|GeneMark.hmm|92_aa|-|18768|19046	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+340,P-JXGC-3.gms.out.faa,gene_20|GeneMark.hmm|789_aa|-|19094|21463	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+341,P-JXGC-3.gms.out.faa,gene_21|GeneMark.hmm|129_aa|-|21464|21853	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+342,P-JXGC-3.gms.out.faa,gene_22|GeneMark.hmm|68_aa|-|21871|22077	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+343,P-JXGC-3.gms.out.faa,gene_23|GeneMark.hmm|123_aa|+|22533|22904	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+344,P-JXGC-3.gms.out.faa,gene_24|GeneMark.hmm|107_aa|+|22994|23317	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+345,P-JXGC-3.gms.out.faa,gene_25|GeneMark.hmm|388_aa|+|23445|24611	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+346,P-JXGC-3.gms.out.faa,gene_26|GeneMark.hmm|263_aa|+|24782|25573	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+347,P-JXGC-3.gms.out.faa,gene_27|GeneMark.hmm|216_aa|+|25591|26241	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+348,P-JXGC-3.gms.out.faa,gene_28|GeneMark.hmm|675_aa|+|26245|28272	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+349,P-JXGC-3.gms.out.faa,gene_29|GeneMark.hmm|103_aa|+|28269|28580	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+350,P-JXGC-3.gms.out.faa,gene_30|GeneMark.hmm|461_aa|+|28565|29950	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+351,P-JXGC-3.gms.out.faa,gene_31|GeneMark.hmm|119_aa|+|29943|30302	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+352,P-JXGC-3.gms.out.faa,gene_32|GeneMark.hmm|190_aa|+|30304|30876	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+353,P-JXGC-3.gms.out.faa,gene_33|GeneMark.hmm|128_aa|+|30948|31334	>KY661963.1 Liberibacter phage P-JXGC-3, complete genome
+354,P-SGCA5-1.gms.out.faa,gene_1|GeneMark.hmm|76_aa|-|2|229	>KX879600.1 Liberibacter phage SGCA5-1 clone contig1 genomic sequence
+355,P-SGCA5-1.gms.out.faa,gene_2|GeneMark.hmm|90_aa|-|226|498	>KX879600.1 Liberibacter phage SGCA5-1 clone contig1 genomic sequence
+356,P-SGCA5-1.gms.out.faa,gene_3|GeneMark.hmm|266_aa|-|491|1291	>KX879600.1 Liberibacter phage SGCA5-1 clone contig1 genomic sequence
+357,P-SGCA5-1.gms.out.faa,gene_4|GeneMark.hmm|52_aa|-|1306|1464	>KX879600.1 Liberibacter phage SGCA5-1 clone contig1 genomic sequence
+358,P-SGCA5-1.gms.out.faa,gene_5|GeneMark.hmm|56_aa|-|1|168	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+359,P-SGCA5-1.gms.out.faa,gene_6|GeneMark.hmm|864_aa|-|175|2769	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+360,P-SGCA5-1.gms.out.faa,gene_7|GeneMark.hmm|478_aa|-|2766|4202	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+361,P-SGCA5-1.gms.out.faa,gene_8|GeneMark.hmm|123_aa|-|4220|4591	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+362,P-SGCA5-1.gms.out.faa,gene_9|GeneMark.hmm|595_aa|-|4557|6344	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+363,P-SGCA5-1.gms.out.faa,gene_10|GeneMark.hmm|156_aa|-|6375|6845	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+364,P-SGCA5-1.gms.out.faa,gene_11|GeneMark.hmm|1347_aa|-|6838|10881	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+365,P-SGCA5-1.gms.out.faa,gene_12|GeneMark.hmm|578_aa|-|10906|12642	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+366,P-SGCA5-1.gms.out.faa,gene_13|GeneMark.hmm|175_aa|-|12635|13162	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+367,P-SGCA5-1.gms.out.faa,gene_14|GeneMark.hmm|319_aa|-|13169|14128	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+368,P-SGCA5-1.gms.out.faa,gene_15|GeneMark.hmm|233_aa|-|14154|14855	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+369,P-SGCA5-1.gms.out.faa,gene_16|GeneMark.hmm|109_aa|-|14866|15195	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+370,P-SGCA5-1.gms.out.faa,gene_17|GeneMark.hmm|556_aa|-|15188|16858	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+371,P-SGCA5-1.gms.out.faa,gene_18|GeneMark.hmm|110_aa|-|16855|17187	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+372,P-SGCA5-1.gms.out.faa,gene_19|GeneMark.hmm|511_aa|-|17260|18795	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+373,P-SGCA5-1.gms.out.faa,gene_20|GeneMark.hmm|162_aa|-|19330|19818	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+374,P-SGCA5-1.gms.out.faa,gene_21|GeneMark.hmm|181_aa|-|21152|21697	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+375,P-SGCA5-1.gms.out.faa,gene_22|GeneMark.hmm|73_aa|+|21907|22128	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+376,P-SGCA5-1.gms.out.faa,gene_23|GeneMark.hmm|130_aa|+|22211|22603	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+377,P-SGCA5-1.gms.out.faa,gene_24|GeneMark.hmm|68_aa|+|22740|22946	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+378,P-SGCA5-1.gms.out.faa,gene_25|GeneMark.hmm|63_aa|+|22939|23130	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+379,P-SGCA5-1.gms.out.faa,gene_26|GeneMark.hmm|110_aa|+|23181|23513	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+380,P-SGCA5-1.gms.out.faa,gene_27|GeneMark.hmm|125_aa|-|23982|24359	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+381,P-SGCA5-1.gms.out.faa,gene_28|GeneMark.hmm|790_aa|-|24407|26779	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+382,P-SGCA5-1.gms.out.faa,gene_29|GeneMark.hmm|129_aa|-|26780|27169	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+383,P-SGCA5-1.gms.out.faa,gene_30|GeneMark.hmm|68_aa|-|27187|27393	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+384,P-SGCA5-1.gms.out.faa,gene_31|GeneMark.hmm|123_aa|+|27849|28220	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+385,P-SGCA5-1.gms.out.faa,gene_32|GeneMark.hmm|107_aa|+|28313|28636	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+386,P-SGCA5-1.gms.out.faa,gene_33|GeneMark.hmm|388_aa|+|28764|29930	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+387,P-SGCA5-1.gms.out.faa,gene_34|GeneMark.hmm|262_aa|+|29945|30733	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+388,P-SGCA5-1.gms.out.faa,gene_35|GeneMark.hmm|216_aa|+|30751|31401	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+389,P-SGCA5-1.gms.out.faa,gene_36|GeneMark.hmm|675_aa|+|31405|33432	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+390,P-SGCA5-1.gms.out.faa,gene_37|GeneMark.hmm|103_aa|+|33429|33740	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+391,P-SGCA5-1.gms.out.faa,gene_38|GeneMark.hmm|461_aa|+|33725|35110	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+392,P-SGCA5-1.gms.out.faa,gene_39|GeneMark.hmm|119_aa|+|35103|35462	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+393,P-SGCA5-1.gms.out.faa,gene_40|GeneMark.hmm|186_aa|+|35464|36021	>KX879601.1 Liberibacter phage SGCA5-1 clone contig2 genomic sequence
+394,SC1.gms.out.faa,gene_1|GeneMark.hmm|157_aa|-|2|475	>HQ377372.1 Liberibacter phage SC1, complete genome
+395,SC1.gms.out.faa,gene_2|GeneMark.hmm|90_aa|-|472|744	>HQ377372.1 Liberibacter phage SC1, complete genome
+396,SC1.gms.out.faa,gene_3|GeneMark.hmm|112_aa|-|737|1075	>HQ377372.1 Liberibacter phage SC1, complete genome
+397,SC1.gms.out.faa,gene_4|GeneMark.hmm|707_aa|-|1062|3185	>HQ377372.1 Liberibacter phage SC1, complete genome
+398,SC1.gms.out.faa,gene_5|GeneMark.hmm|864_aa|-|3192|5786	>HQ377372.1 Liberibacter phage SC1, complete genome
+399,SC1.gms.out.faa,gene_6|GeneMark.hmm|478_aa|-|5783|7219	>HQ377372.1 Liberibacter phage SC1, complete genome
+400,SC1.gms.out.faa,gene_7|GeneMark.hmm|707_aa|-|7237|9360	>HQ377372.1 Liberibacter phage SC1, complete genome
+401,SC1.gms.out.faa,gene_8|GeneMark.hmm|167_aa|-|9357|9860	>HQ377372.1 Liberibacter phage SC1, complete genome
+402,SC1.gms.out.faa,gene_9|GeneMark.hmm|1340_aa|-|9853|13875	>HQ377372.1 Liberibacter phage SC1, complete genome
+403,SC1.gms.out.faa,gene_10|GeneMark.hmm|578_aa|-|13900|15636	>HQ377372.1 Liberibacter phage SC1, complete genome
+404,SC1.gms.out.faa,gene_11|GeneMark.hmm|175_aa|-|15629|16156	>HQ377372.1 Liberibacter phage SC1, complete genome
+405,SC1.gms.out.faa,gene_12|GeneMark.hmm|343_aa|-|16156|17187	>HQ377372.1 Liberibacter phage SC1, complete genome
+406,SC1.gms.out.faa,gene_13|GeneMark.hmm|234_aa|-|17200|17904	>HQ377372.1 Liberibacter phage SC1, complete genome
+407,SC1.gms.out.faa,gene_14|GeneMark.hmm|109_aa|-|17915|18244	>HQ377372.1 Liberibacter phage SC1, complete genome
+408,SC1.gms.out.faa,gene_15|GeneMark.hmm|556_aa|-|18237|19907	>HQ377372.1 Liberibacter phage SC1, complete genome
+409,SC1.gms.out.faa,gene_16|GeneMark.hmm|110_aa|-|19904|20236	>HQ377372.1 Liberibacter phage SC1, complete genome
+410,SC1.gms.out.faa,gene_17|GeneMark.hmm|511_aa|-|20309|21844	>HQ377372.1 Liberibacter phage SC1, complete genome
+411,SC1.gms.out.faa,gene_18|GeneMark.hmm|162_aa|-|22379|22867	>HQ377372.1 Liberibacter phage SC1, complete genome
+412,SC1.gms.out.faa,gene_19|GeneMark.hmm|205_aa|-|23973|24590	>HQ377372.1 Liberibacter phage SC1, complete genome
+413,SC1.gms.out.faa,gene_20|GeneMark.hmm|173_aa|+|24841|25362	>HQ377372.1 Liberibacter phage SC1, complete genome
+414,SC1.gms.out.faa,gene_21|GeneMark.hmm|130_aa|+|25424|25816	>HQ377372.1 Liberibacter phage SC1, complete genome
+415,SC1.gms.out.faa,gene_22|GeneMark.hmm|68_aa|+|25952|26158	>HQ377372.1 Liberibacter phage SC1, complete genome
+416,SC1.gms.out.faa,gene_23|GeneMark.hmm|70_aa|+|26151|26363	>HQ377372.1 Liberibacter phage SC1, complete genome
+417,SC1.gms.out.faa,gene_24|GeneMark.hmm|134_aa|+|26395|26799	>HQ377372.1 Liberibacter phage SC1, complete genome
+418,SC1.gms.out.faa,gene_25|GeneMark.hmm|61_aa|+|26912|27097	>HQ377372.1 Liberibacter phage SC1, complete genome
+419,SC1.gms.out.faa,gene_26|GeneMark.hmm|125_aa|-|27328|27705	>HQ377372.1 Liberibacter phage SC1, complete genome
+420,SC1.gms.out.faa,gene_27|GeneMark.hmm|790_aa|-|27753|30125	>HQ377372.1 Liberibacter phage SC1, complete genome
+421,SC1.gms.out.faa,gene_28|GeneMark.hmm|129_aa|-|30126|30515	>HQ377372.1 Liberibacter phage SC1, complete genome
+422,SC1.gms.out.faa,gene_29|GeneMark.hmm|68_aa|-|30533|30739	>HQ377372.1 Liberibacter phage SC1, complete genome
+423,SC1.gms.out.faa,gene_30|GeneMark.hmm|123_aa|+|31186|31557	>HQ377372.1 Liberibacter phage SC1, complete genome
+424,SC1.gms.out.faa,gene_31|GeneMark.hmm|107_aa|+|31647|31970	>HQ377372.1 Liberibacter phage SC1, complete genome
+425,SC1.gms.out.faa,gene_32|GeneMark.hmm|388_aa|+|32098|33264	>HQ377372.1 Liberibacter phage SC1, complete genome
+426,SC1.gms.out.faa,gene_33|GeneMark.hmm|262_aa|+|33435|34223	>HQ377372.1 Liberibacter phage SC1, complete genome
+427,SC1.gms.out.faa,gene_34|GeneMark.hmm|216_aa|+|34241|34891	>HQ377372.1 Liberibacter phage SC1, complete genome
+428,SC1.gms.out.faa,gene_35|GeneMark.hmm|675_aa|+|34895|36922	>HQ377372.1 Liberibacter phage SC1, complete genome
+429,SC1.gms.out.faa,gene_36|GeneMark.hmm|103_aa|+|36919|37230	>HQ377372.1 Liberibacter phage SC1, complete genome
+430,SC1.gms.out.faa,gene_37|GeneMark.hmm|461_aa|+|37215|38600	>HQ377372.1 Liberibacter phage SC1, complete genome
+431,SC1.gms.out.faa,gene_38|GeneMark.hmm|119_aa|+|38593|38952	>HQ377372.1 Liberibacter phage SC1, complete genome
+432,SC1.gms.out.faa,gene_39|GeneMark.hmm|185_aa|+|38954|39511	>HQ377372.1 Liberibacter phage SC1, complete genome
+433,SC1.gms.out.faa,gene_40|GeneMark.hmm|123_aa|+|39675|40046	>HQ377372.1 Liberibacter phage SC1, complete genome
+434,SC2.gms.out.faa,gene_1|GeneMark.hmm|158_aa|-|11|487	>HQ377373.1 Liberibacter phage SC2, complete genome
+435,SC2.gms.out.faa,gene_2|GeneMark.hmm|146_aa|-|484|924	>HQ377373.1 Liberibacter phage SC2, complete genome
+436,SC2.gms.out.faa,gene_3|GeneMark.hmm|280_aa|-|934|1776	>HQ377373.1 Liberibacter phage SC2, complete genome
+437,SC2.gms.out.faa,gene_4|GeneMark.hmm|809_aa|-|1773|4202	>HQ377373.1 Liberibacter phage SC2, complete genome
+438,SC2.gms.out.faa,gene_5|GeneMark.hmm|408_aa|-|4199|5425	>HQ377373.1 Liberibacter phage SC2, complete genome
+439,SC2.gms.out.faa,gene_6|GeneMark.hmm|753_aa|-|5409|7670	>HQ377373.1 Liberibacter phage SC2, complete genome
+440,SC2.gms.out.faa,gene_7|GeneMark.hmm|118_aa|-|7805|8161	>HQ377373.1 Liberibacter phage SC2, complete genome
+441,SC2.gms.out.faa,gene_8|GeneMark.hmm|413_aa|-|8163|9404	>HQ377373.1 Liberibacter phage SC2, complete genome
+442,SC2.gms.out.faa,gene_9|GeneMark.hmm|175_aa|-|9376|9903	>HQ377373.1 Liberibacter phage SC2, complete genome
+443,SC2.gms.out.faa,gene_10|GeneMark.hmm|590_aa|-|9910|11682	>HQ377373.1 Liberibacter phage SC2, complete genome
+444,SC2.gms.out.faa,gene_11|GeneMark.hmm|172_aa|-|11675|12193	>HQ377373.1 Liberibacter phage SC2, complete genome
+445,SC2.gms.out.faa,gene_12|GeneMark.hmm|306_aa|-|12300|13220	>HQ377373.1 Liberibacter phage SC2, complete genome
+446,SC2.gms.out.faa,gene_13|GeneMark.hmm|246_aa|-|13234|13974	>HQ377373.1 Liberibacter phage SC2, complete genome
+447,SC2.gms.out.faa,gene_14|GeneMark.hmm|90_aa|-|13986|14258	>HQ377373.1 Liberibacter phage SC2, complete genome
+448,SC2.gms.out.faa,gene_15|GeneMark.hmm|539_aa|-|14255|15874	>HQ377373.1 Liberibacter phage SC2, complete genome
+449,SC2.gms.out.faa,gene_16|GeneMark.hmm|516_aa|-|15877|17427	>HQ377373.1 Liberibacter phage SC2, complete genome
+450,SC2.gms.out.faa,gene_17|GeneMark.hmm|162_aa|-|17962|18450	>HQ377373.1 Liberibacter phage SC2, complete genome
+451,SC2.gms.out.faa,gene_18|GeneMark.hmm|199_aa|-|19802|20401	>HQ377373.1 Liberibacter phage SC2, complete genome
+452,SC2.gms.out.faa,gene_19|GeneMark.hmm|73_aa|+|20582|20803	>HQ377373.1 Liberibacter phage SC2, complete genome
+453,SC2.gms.out.faa,gene_20|GeneMark.hmm|130_aa|+|20894|21286	>HQ377373.1 Liberibacter phage SC2, complete genome
+454,SC2.gms.out.faa,gene_21|GeneMark.hmm|68_aa|+|21422|21628	>HQ377373.1 Liberibacter phage SC2, complete genome
+455,SC2.gms.out.faa,gene_22|GeneMark.hmm|70_aa|+|21621|21833	>HQ377373.1 Liberibacter phage SC2, complete genome
+456,SC2.gms.out.faa,gene_23|GeneMark.hmm|134_aa|+|21865|22269	>HQ377373.1 Liberibacter phage SC2, complete genome
+457,SC2.gms.out.faa,gene_24|GeneMark.hmm|61_aa|+|22382|22567	>HQ377373.1 Liberibacter phage SC2, complete genome
+458,SC2.gms.out.faa,gene_25|GeneMark.hmm|125_aa|-|22798|23175	>HQ377373.1 Liberibacter phage SC2, complete genome
+459,SC2.gms.out.faa,gene_26|GeneMark.hmm|790_aa|-|23223|25595	>HQ377373.1 Liberibacter phage SC2, complete genome
+460,SC2.gms.out.faa,gene_27|GeneMark.hmm|129_aa|-|25596|25985	>HQ377373.1 Liberibacter phage SC2, complete genome
+461,SC2.gms.out.faa,gene_28|GeneMark.hmm|68_aa|-|26003|26209	>HQ377373.1 Liberibacter phage SC2, complete genome
+462,SC2.gms.out.faa,gene_29|GeneMark.hmm|87_aa|-|26206|26469	>HQ377373.1 Liberibacter phage SC2, complete genome
+463,SC2.gms.out.faa,gene_30|GeneMark.hmm|123_aa|+|26676|27047	>HQ377373.1 Liberibacter phage SC2, complete genome
+464,SC2.gms.out.faa,gene_31|GeneMark.hmm|107_aa|+|27137|27460	>HQ377373.1 Liberibacter phage SC2, complete genome
+465,SC2.gms.out.faa,gene_32|GeneMark.hmm|388_aa|+|27588|28754	>HQ377373.1 Liberibacter phage SC2, complete genome
+466,SC2.gms.out.faa,gene_33|GeneMark.hmm|262_aa|+|28925|29713	>HQ377373.1 Liberibacter phage SC2, complete genome
+467,SC2.gms.out.faa,gene_34|GeneMark.hmm|216_aa|+|29731|30381	>HQ377373.1 Liberibacter phage SC2, complete genome
+468,SC2.gms.out.faa,gene_35|GeneMark.hmm|675_aa|+|30385|32412	>HQ377373.1 Liberibacter phage SC2, complete genome
+469,SC2.gms.out.faa,gene_36|GeneMark.hmm|103_aa|+|32409|32720	>HQ377373.1 Liberibacter phage SC2, complete genome
+470,SC2.gms.out.faa,gene_37|GeneMark.hmm|461_aa|+|32705|34090	>HQ377373.1 Liberibacter phage SC2, complete genome
+471,SC2.gms.out.faa,gene_38|GeneMark.hmm|119_aa|+|34083|34442	>HQ377373.1 Liberibacter phage SC2, complete genome
+472,SC2.gms.out.faa,gene_39|GeneMark.hmm|190_aa|+|34444|35016	>HQ377373.1 Liberibacter phage SC2, complete genome
+473,SC2.gms.out.faa,gene_40|GeneMark.hmm|155_aa|+|35061|35528	>HQ377373.1 Liberibacter phage SC2, complete genome
+474,SC2.gms.out.faa,gene_41|GeneMark.hmm|312_aa|+|35739|36677	>HQ377373.1 Liberibacter phage SC2, complete genome
+475,SC2.gms.out.faa,gene_42|GeneMark.hmm|157_aa|-|36733|37206	>HQ377373.1 Liberibacter phage SC2, complete genome
+476,SC2.gms.out.faa,gene_43|GeneMark.hmm|90_aa|-|37203|37475	>HQ377373.1 Liberibacter phage SC2, complete genome
+477,SC2.gms.out.faa,gene_44|GeneMark.hmm|51_aa|-|37563|37718	>HQ377373.1 Liberibacter phage SC2, complete genome
+478,SC2.gms.out.faa,gene_45|GeneMark.hmm|314_aa|+|38043|38987	>HQ377373.1 Liberibacter phage SC2, complete genome
+479,SGCA5-a.gms.out.faa,gene_1|GeneMark.hmm|159_aa|-|1|480	>SGCA5_contig22
+480,SGCA5-a.gms.out.faa,gene_2|GeneMark.hmm|340_aa|-|483|1505	>SGCA5_contig22
+481,SGCA5-a.gms.out.faa,gene_3|GeneMark.hmm|83_aa|-|1481|1732	>SGCA5_contig22
+482,SGCA5-a.gms.out.faa,gene_4|GeneMark.hmm|114_aa|-|1729|2073	>SGCA5_contig22
+483,SGCA5-a.gms.out.faa,gene_5|GeneMark.hmm|195_aa|-|2075|2662	>SGCA5_contig22
+484,SGCA5-a.gms.out.faa,gene_6|GeneMark.hmm|178_aa|-|2672|3208	>SGCA5_contig22
+485,SGCA5-a.gms.out.faa,gene_7|GeneMark.hmm|65_aa|-|3209|3406	>SGCA5_contig22
+486,SGCA5-a.gms.out.faa,gene_8|GeneMark.hmm|162_aa|-|3544|4032	>SGCA5_contig22
+487,TX1712-a.gms.out.faa,gene_1|GeneMark.hmm|103_aa|-|1|312	>TX1712_contig3
+488,TX1712-a.gms.out.faa,gene_2|GeneMark.hmm|378_aa|-|602|1738	>TX1712_contig3
+489,TX1712-a.gms.out.faa,gene_3|GeneMark.hmm|150_aa|-|1876|2328	>TX1712_contig3
+490,TX1712-a.gms.out.faa,gene_4|GeneMark.hmm|238_aa|-|2332|3048	>TX1712_contig3
+491,TX1712-a.gms.out.faa,gene_5|GeneMark.hmm|159_aa|-|3303|3782	>TX1712_contig3
+492,TX1712-a.gms.out.faa,gene_6|GeneMark.hmm|340_aa|-|3785|4807	>TX1712_contig3
+493,TX1712-a.gms.out.faa,gene_7|GeneMark.hmm|83_aa|-|4783|5034	>TX1712_contig3
+494,TX1712-a.gms.out.faa,gene_8|GeneMark.hmm|114_aa|-|5031|5375	>TX1712_contig3
+495,TX1712-a.gms.out.faa,gene_9|GeneMark.hmm|195_aa|-|5377|5964	>TX1712_contig3
+496,TX1712-a.gms.out.faa,gene_10|GeneMark.hmm|178_aa|-|5974|6510	>TX1712_contig3
+497,TX1712-a.gms.out.faa,gene_11|GeneMark.hmm|65_aa|-|6511|6708	>TX1712_contig3
+498,TX1712-a.gms.out.faa,gene_12|GeneMark.hmm|162_aa|-|6846|7334	>TX1712_contig3
+499,TX1712-a.gms.out.faa,gene_13|GeneMark.hmm|213_aa|-|7331|7972	>TX1712_contig3
+500,TX1712-a.gms.out.faa,gene_14|GeneMark.hmm|196_aa|-|8015|8605	>TX1712_contig3
+501,TX1712-a.gms.out.faa,gene_15|GeneMark.hmm|35_aa|-|9234|9341	>TX1712_contig3
+502,TX1712-a.gms.out.faa,gene_16|GeneMark.hmm|76_aa|-|9332|9562	>TX1712_contig3
+503,TX1712-a.gms.out.faa,gene_17|GeneMark.hmm|350_aa|-|9572|10624	>TX1712_contig3
+504,TX1712-a.gms.out.faa,gene_18|GeneMark.hmm|251_aa|-|10874|11629	>TX1712_contig3
+505,TX1712-a.gms.out.faa,gene_19|GeneMark.hmm|110_aa|-|11616|11948	>TX1712_contig3
+506,TX1712-a.gms.out.faa,gene_20|GeneMark.hmm|122_aa|-|12019|12387	>TX1712_contig3
+507,TX1712-a.gms.out.faa,gene_21|GeneMark.hmm|50_aa|+|13249|13401	>TX1712_contig3
+508,TX1712-a.gms.out.faa,gene_22|GeneMark.hmm|83_aa|+|13940|14191	>TX1712_contig3
+509,TX1712-a.gms.out.faa,gene_23|GeneMark.hmm|266_aa|+|15158|15958	>TX1712_contig3
+510,TX1712-a.gms.out.faa,gene_24|GeneMark.hmm|33_aa|+|16354|16455	>TX1712_contig3
+511,TX1712-a.gms.out.faa,gene_25|GeneMark.hmm|38_aa|+|16449|16565	>TX1712_contig3
+512,TX1712-a.gms.out.faa,gene_26|GeneMark.hmm|152_aa|+|16558|17016	>TX1712_contig3
+513,TX1712-b.gms.out.faa,gene_1|GeneMark.hmm|317_aa|+|1|954	>TX1712_contig17
+514,TX1712-b.gms.out.faa,gene_2|GeneMark.hmm|114_aa|+|1002|1346	>TX1712_contig17
+515,TX1712-b.gms.out.faa,gene_3|GeneMark.hmm|110_aa|-|1601|1933	>TX1712_contig17
+516,TX1712-b.gms.out.faa,gene_4|GeneMark.hmm|70_aa|-|1965|2177	>TX1712_contig17
+517,TX1712-b.gms.out.faa,gene_5|GeneMark.hmm|68_aa|-|2170|2376	>TX1712_contig17
+518,TX1712-b.gms.out.faa,gene_6|GeneMark.hmm|130_aa|-|2512|2904	>TX1712_contig17
+519,TX1712-b.gms.out.faa,gene_7|GeneMark.hmm|200_aa|-|2966|3568	>TX1712_contig17
+520,TX1712-b.gms.out.faa,gene_8|GeneMark.hmm|205_aa|+|3738|4355	>TX1712_contig17
+521,TX1712-b.gms.out.faa,gene_9|GeneMark.hmm|162_aa|+|5459|5947	>TX1712_contig17
+522,TX1712-b.gms.out.faa,gene_10|GeneMark.hmm|511_aa|+|6482|8017	>TX1712_contig17
+523,TX1712-b.gms.out.faa,gene_11|GeneMark.hmm|110_aa|+|8090|8422	>TX1712_contig17
+524,TX1712-b.gms.out.faa,gene_12|GeneMark.hmm|556_aa|+|8419|10089	>TX1712_contig17
+525,TX1712-b.gms.out.faa,gene_13|GeneMark.hmm|109_aa|+|10082|10411	>TX1712_contig17
+526,TX1712-b.gms.out.faa,gene_14|GeneMark.hmm|234_aa|+|10422|11126	>TX1712_contig17
+527,TX1712-b.gms.out.faa,gene_15|GeneMark.hmm|343_aa|+|11139|12170	>TX1712_contig17
+528,TX1712-b.gms.out.faa,gene_16|GeneMark.hmm|175_aa|+|12170|12697	>TX1712_contig17
+529,TX1712-b.gms.out.faa,gene_17|GeneMark.hmm|578_aa|+|12690|14426	>TX1712_contig17
+530,TX1712-b.gms.out.faa,gene_18|GeneMark.hmm|1340_aa|+|14451|18473	>TX1712_contig17
+531,TX1712-b.gms.out.faa,gene_19|GeneMark.hmm|167_aa|+|18466|18969	>TX1712_contig17
+532,TX1712-b.gms.out.faa,gene_20|GeneMark.hmm|707_aa|+|18966|21089	>TX1712_contig17
+533,TX1712-b.gms.out.faa,gene_21|GeneMark.hmm|478_aa|+|21107|22543	>TX1712_contig17
+534,TX1712-b.gms.out.faa,gene_22|GeneMark.hmm|864_aa|+|22540|25134	>TX1712_contig17
+535,TX1712-b.gms.out.faa,gene_23|GeneMark.hmm|387_aa|+|25141|26304	>TX1712_contig17
+536,TX1712-b.gms.out.faa,gene_24|GeneMark.hmm|90_aa|+|26297|26569	>TX1712_contig17
+537,TX1712-b.gms.out.faa,gene_25|GeneMark.hmm|157_aa|+|26566|27039	>TX1712_contig17
+538,TX1712-b.gms.out.faa,gene_26|GeneMark.hmm|114_aa|-|27043|27387	>TX1712_contig17
+539,TX1712-c.gms.out.faa,gene_1|GeneMark.hmm|675_aa|-|1|2028	>TX1712_contig35
+540,TX1712-c.gms.out.faa,gene_2|GeneMark.hmm|216_aa|-|2032|2682	>TX1712_contig35
+541,TX1712-c.gms.out.faa,gene_3|GeneMark.hmm|262_aa|-|2700|3488	>TX1712_contig35
+542,TX1712-c.gms.out.faa,gene_4|GeneMark.hmm|388_aa|-|3659|4825	>TX1712_contig35
+543,TX1712-c.gms.out.faa,gene_5|GeneMark.hmm|107_aa|-|4953|5276	>TX1712_contig35
+544,TX1712-c.gms.out.faa,gene_6|GeneMark.hmm|123_aa|-|5366|5737	>TX1712_contig35
+545,TX1712-c.gms.out.faa,gene_7|GeneMark.hmm|87_aa|+|5944|6207	>TX1712_contig35
+546,TX1712-c.gms.out.faa,gene_8|GeneMark.hmm|68_aa|+|6204|6410	>TX1712_contig35
+547,TX1712-c.gms.out.faa,gene_9|GeneMark.hmm|129_aa|+|6428|6817	>TX1712_contig35
+548,TX2351-a.gms.out.faa,gene_1|GeneMark.hmm|129_aa|-|1|390	>TX2351_contig66
+549,TX2351-a.gms.out.faa,gene_2|GeneMark.hmm|68_aa|-|408|614	>TX2351_contig66
+550,TX2351-a.gms.out.faa,gene_3|GeneMark.hmm|87_aa|-|611|874	>TX2351_contig66
+551,TX2351-a.gms.out.faa,gene_4|GeneMark.hmm|123_aa|+|1062|1433	>TX2351_contig66
+552,TX2351-a.gms.out.faa,gene_5|GeneMark.hmm|107_aa|+|1523|1846	>TX2351_contig66
+553,TX2351-a.gms.out.faa,gene_6|GeneMark.hmm|388_aa|+|1974|3140	>TX2351_contig66
+554,TX2351-a.gms.out.faa,gene_7|GeneMark.hmm|262_aa|+|3311|4099	>TX2351_contig66
+555,TX2351-a.gms.out.faa,gene_8|GeneMark.hmm|216_aa|+|4117|4767	>TX2351_contig66
+556,TX2351-a.gms.out.faa,gene_9|GeneMark.hmm|675_aa|+|4771|6798	>TX2351_contig66
+557,TX2351-a.gms.out.faa,gene_10|GeneMark.hmm|103_aa|+|6795|7106	>TX2351_contig66
+558,TX2351-a.gms.out.faa,gene_11|GeneMark.hmm|461_aa|+|7091|8476	>TX2351_contig66
+559,TX2351-a.gms.out.faa,gene_12|GeneMark.hmm|119_aa|+|8469|8828	>TX2351_contig66
+560,TX2351-a.gms.out.faa,gene_13|GeneMark.hmm|185_aa|+|8830|9387	>TX2351_contig66
+561,TX2351-a.gms.out.faa,gene_14|GeneMark.hmm|123_aa|+|9551|9922	>TX2351_contig66
+562,TX2351-b.gms.out.faa,gene_1|GeneMark.hmm|341_aa|-|1|1026	>TX2351_contig67
+563,TX2351-b.gms.out.faa,gene_2|GeneMark.hmm|809_aa|-|1023|3452	>TX2351_contig67
+564,TX2351-b.gms.out.faa,gene_3|GeneMark.hmm|408_aa|-|3449|4675	>TX2351_contig67
+565,TX2351-b.gms.out.faa,gene_4|GeneMark.hmm|753_aa|-|4659|6920	>TX2351_contig67
+566,TX2351-b.gms.out.faa,gene_5|GeneMark.hmm|162_aa|-|6922|7410	>TX2351_contig67
+567,TX2351-b.gms.out.faa,gene_6|GeneMark.hmm|579_aa|-|7412|9151	>TX2351_contig67
+568,TX2351-b.gms.out.faa,gene_7|GeneMark.hmm|590_aa|-|9158|10930	>TX2351_contig67
+569,TX2351-c.gms.out.faa,gene_1|GeneMark.hmm|516_aa|-|1|1551	>TX2351_contig69
+570,TX2351-c.gms.out.faa,gene_2|GeneMark.hmm|162_aa|-|2086|2574	>TX2351_contig69
+571,TX2351-c.gms.out.faa,gene_3|GeneMark.hmm|199_aa|-|3926|4525	>TX2351_contig69
+572,TX2351-c.gms.out.faa,gene_4|GeneMark.hmm|73_aa|+|4706|4927	>TX2351_contig69
+573,TX2351-c.gms.out.faa,gene_5|GeneMark.hmm|130_aa|+|5010|5402	>TX2351_contig69
+574,TX2351-c.gms.out.faa,gene_6|GeneMark.hmm|68_aa|+|5538|5744	>TX2351_contig69
+575,TX2351-c.gms.out.faa,gene_7|GeneMark.hmm|70_aa|+|5737|5949	>TX2351_contig69
+576,TX2351-c.gms.out.faa,gene_8|GeneMark.hmm|134_aa|+|5981|6385	>TX2351_contig69
+577,TX2351-d.gms.out.faa,gene_1|GeneMark.hmm|125_aa|-|1|378	>TX2351_contig70
+578,TX2351-d.gms.out.faa,gene_2|GeneMark.hmm|790_aa|-|426|2798	>TX2351_contig70
+579,TX2351-d.gms.out.faa,gene_3|GeneMark.hmm|129_aa|-|2799|3188	>TX2351_contig70
+580,TX2351-d.gms.out.faa,gene_4|GeneMark.hmm|68_aa|-|3206|3412	>TX2351_contig70
+581,TX2351-d.gms.out.faa,gene_5|GeneMark.hmm|87_aa|-|3409|3672	>TX2351_contig70
+582,TX2351-d.gms.out.faa,gene_6|GeneMark.hmm|123_aa|+|3879|4250	>TX2351_contig70
+583,TX2351-d.gms.out.faa,gene_7|GeneMark.hmm|107_aa|+|4340|4663	>TX2351_contig70
+584,TX2351-d.gms.out.faa,gene_8|GeneMark.hmm|388_aa|+|4791|5957	>TX2351_contig70
+585,TX2351-d.gms.out.faa,gene_9|GeneMark.hmm|262_aa|+|6128|6916	>TX2351_contig70
+586,TX2351-d.gms.out.faa,gene_10|GeneMark.hmm|216_aa|+|6934|7584	>TX2351_contig70
+587,TX2351-d.gms.out.faa,gene_11|GeneMark.hmm|675_aa|+|7588|9615	>TX2351_contig70
+588,TX2351-d.gms.out.faa,gene_12|GeneMark.hmm|103_aa|+|9612|9923	>TX2351_contig70
+589,TX2351-d.gms.out.faa,gene_13|GeneMark.hmm|461_aa|+|9908|11293	>TX2351_contig70
+590,TX2351-d.gms.out.faa,gene_14|GeneMark.hmm|119_aa|+|11286|11645	>TX2351_contig70
+591,TX2351-d.gms.out.faa,gene_15|GeneMark.hmm|190_aa|+|11647|12219	>TX2351_contig70
+592,TX2351-d.gms.out.faa,gene_16|GeneMark.hmm|146_aa|+|12291|12731	>TX2351_contig70
+593,YCPsy-a.gms.out.faa,gene_1|GeneMark.hmm|378_aa|-|1|1137	>YCPsy_contig2
+594,YCPsy-a.gms.out.faa,gene_2|GeneMark.hmm|150_aa|-|1275|1727	>YCPsy_contig2
+595,YCPsy-a.gms.out.faa,gene_3|GeneMark.hmm|56_aa|-|1731|1901	>YCPsy_contig2
+596,YCPsy-a.gms.out.faa,gene_4|GeneMark.hmm|154_aa|-|2012|2476	>YCPsy_contig2
+597,YCPsy-a.gms.out.faa,gene_5|GeneMark.hmm|113_aa|+|2546|2887	>YCPsy_contig2
+598,YCPsy-a.gms.out.faa,gene_6|GeneMark.hmm|405_aa|-|3173|4390	>YCPsy_contig2
+599,YCPsy-a.gms.out.faa,gene_7|GeneMark.hmm|162_aa|-|4506|4994	>YCPsy_contig2
+600,YCPsy-a.gms.out.faa,gene_8|GeneMark.hmm|159_aa|-|5249|5728	>YCPsy_contig2
+601,YCPsy-a.gms.out.faa,gene_9|GeneMark.hmm|340_aa|-|5731|6753	>YCPsy_contig2
+602,YCPsy-a.gms.out.faa,gene_10|GeneMark.hmm|83_aa|-|6729|6980	>YCPsy_contig2
+603,YCPsy-a.gms.out.faa,gene_11|GeneMark.hmm|114_aa|-|6977|7321	>YCPsy_contig2
+604,YCPsy-a.gms.out.faa,gene_12|GeneMark.hmm|195_aa|-|7323|7910	>YCPsy_contig2
+605,YCPsy-a.gms.out.faa,gene_13|GeneMark.hmm|178_aa|-|7920|8456	>YCPsy_contig2
+606,YCPsy-a.gms.out.faa,gene_14|GeneMark.hmm|65_aa|-|8457|8654	>YCPsy_contig2
+607,YCPsy-a.gms.out.faa,gene_15|GeneMark.hmm|162_aa|-|8792|9280	>YCPsy_contig2
+608,YCPsy-a.gms.out.faa,gene_16|GeneMark.hmm|213_aa|-|9277|9918	>YCPsy_contig2
+609,YCPsy-a.gms.out.faa,gene_17|GeneMark.hmm|196_aa|-|9961|10551	>YCPsy_contig2
+610,YCPsy-a.gms.out.faa,gene_18|GeneMark.hmm|35_aa|-|11180|11287	>YCPsy_contig2
+611,YCPsy-a.gms.out.faa,gene_19|GeneMark.hmm|76_aa|-|11278|11508	>YCPsy_contig2
+612,YCPsy-a.gms.out.faa,gene_20|GeneMark.hmm|350_aa|-|11518|12570	>YCPsy_contig2
+613,YCPsy-a.gms.out.faa,gene_21|GeneMark.hmm|251_aa|-|12820|13575	>YCPsy_contig2
+614,YCPsy-a.gms.out.faa,gene_22|GeneMark.hmm|110_aa|-|13562|13894	>YCPsy_contig2
+615,YCPsy-a.gms.out.faa,gene_23|GeneMark.hmm|122_aa|-|13965|14333	>YCPsy_contig2
+616,YCPsy-a.gms.out.faa,gene_24|GeneMark.hmm|50_aa|+|15195|15347	>YCPsy_contig2
+617,YCPsy-a.gms.out.faa,gene_25|GeneMark.hmm|83_aa|+|15886|16137	>YCPsy_contig2
+618,YCPsy-a.gms.out.faa,gene_26|GeneMark.hmm|266_aa|+|17104|17904	>YCPsy_contig2
+619,YCPsy-a.gms.out.faa,gene_27|GeneMark.hmm|33_aa|+|18300|18401	>YCPsy_contig2
+620,YCPsy-a.gms.out.faa,gene_28|GeneMark.hmm|38_aa|+|18395|18511	>YCPsy_contig2
+621,YCPsy-a.gms.out.faa,gene_29|GeneMark.hmm|152_aa|+|18504|18962	>YCPsy_contig2
+622,YCPsy-b.gms.out.faa,gene_1|GeneMark.hmm|269_aa|+|1|810	>YCPsy_contig3
+623,YCPsy-b.gms.out.faa,gene_2|GeneMark.hmm|119_aa|+|803|1162	>YCPsy_contig3
+624,YCPsy-b.gms.out.faa,gene_3|GeneMark.hmm|185_aa|+|1164|1721	>YCPsy_contig3
+625,YCPsy-b.gms.out.faa,gene_4|GeneMark.hmm|116_aa|+|1885|2235	>YCPsy_contig3
+626,YCPsy-b.gms.out.faa,gene_5|GeneMark.hmm|157_aa|-|2239|2712	>YCPsy_contig3
+627,YCPsy-b.gms.out.faa,gene_6|GeneMark.hmm|90_aa|-|2709|2981	>YCPsy_contig3
+628,YCPsy-b.gms.out.faa,gene_7|GeneMark.hmm|426_aa|-|2974|4254	>YCPsy_contig3
+629,YCPsy-b.gms.out.faa,gene_8|GeneMark.hmm|864_aa|-|4261|6855	>YCPsy_contig3
+630,YCPsy-b.gms.out.faa,gene_9|GeneMark.hmm|478_aa|-|6852|8288	>YCPsy_contig3
+631,YCPsy-b.gms.out.faa,gene_10|GeneMark.hmm|707_aa|-|8306|10429	>YCPsy_contig3
+632,YCPsy-b.gms.out.faa,gene_11|GeneMark.hmm|167_aa|-|10426|10929	>YCPsy_contig3
+633,YCPsy-b.gms.out.faa,gene_12|GeneMark.hmm|1347_aa|-|10922|14965	>YCPsy_contig3
+634,YCPsy-b.gms.out.faa,gene_13|GeneMark.hmm|578_aa|-|14990|16726	>YCPsy_contig3
+635,YCPsy-b.gms.out.faa,gene_14|GeneMark.hmm|175_aa|-|16719|17246	>YCPsy_contig3
+636,YCPsy-b.gms.out.faa,gene_15|GeneMark.hmm|319_aa|-|17253|18212	>YCPsy_contig3
+637,YCPsy-b.gms.out.faa,gene_16|GeneMark.hmm|233_aa|-|18238|18939	>YCPsy_contig3
+638,YCPsy-b.gms.out.faa,gene_17|GeneMark.hmm|109_aa|-|18950|19279	>YCPsy_contig3
+639,YCPsy-b.gms.out.faa,gene_18|GeneMark.hmm|556_aa|-|19272|20942	>YCPsy_contig3
+640,YCPsy-b.gms.out.faa,gene_19|GeneMark.hmm|110_aa|-|20939|21271	>YCPsy_contig3
+641,YCPsy-c.gms.out.faa,gene_1|GeneMark.hmm|130_aa|+|1|393	>YCPsy_contig6
+642,YCPsy-c.gms.out.faa,gene_2|GeneMark.hmm|68_aa|+|530|736	>YCPsy_contig6
+643,YCPsy-c.gms.out.faa,gene_3|GeneMark.hmm|70_aa|+|729|941	>YCPsy_contig6
+644,YCPsy-c.gms.out.faa,gene_4|GeneMark.hmm|110_aa|+|973|1305	>YCPsy_contig6
+645,YCPsy-c.gms.out.faa,gene_5|GeneMark.hmm|61_aa|+|1418|1603	>YCPsy_contig6
+646,YCPsy-c.gms.out.faa,gene_6|GeneMark.hmm|114_aa|-|1834|2178	>YCPsy_contig6
+647,YCPsy-d.gms.out.faa,gene_1|GeneMark.hmm|129_aa|-|1|390	>YCPsy_contig7
+648,YCPsy-d.gms.out.faa,gene_2|GeneMark.hmm|68_aa|-|408|614	>YCPsy_contig7
+649,YCPsy-d.gms.out.faa,gene_3|GeneMark.hmm|123_aa|+|1080|1451	>YCPsy_contig7
+650,YCPsy-d.gms.out.faa,gene_4|GeneMark.hmm|107_aa|+|1541|1864	>YCPsy_contig7
+651,YCPsy-d.gms.out.faa,gene_5|GeneMark.hmm|388_aa|+|1992|3158	>YCPsy_contig7
+652,YCPsy-d.gms.out.faa,gene_6|GeneMark.hmm|263_aa|+|3329|4120	>YCPsy_contig7
+653,YCPsy-d.gms.out.faa,gene_7|GeneMark.hmm|216_aa|+|4138|4788	>YCPsy_contig7
+654,YCPsy-d.gms.out.faa,gene_8|GeneMark.hmm|415_aa|+|4792|6039	>YCPsy_contig7
+655,YNJS7C-a.gms.out.faa,gene_1|GeneMark.hmm|103_aa|-|1|312	>YNJS7C_contig1
+656,YNJS7C-a.gms.out.faa,gene_2|GeneMark.hmm|378_aa|-|602|1738	>YNJS7C_contig1
+657,YNJS7C-a.gms.out.faa,gene_3|GeneMark.hmm|150_aa|-|1876|2328	>YNJS7C_contig1
+658,YNJS7C-a.gms.out.faa,gene_4|GeneMark.hmm|238_aa|-|2332|3048	>YNJS7C_contig1
+659,YNJS7C-a.gms.out.faa,gene_5|GeneMark.hmm|159_aa|-|3303|3782	>YNJS7C_contig1
+660,YNJS7C-a.gms.out.faa,gene_6|GeneMark.hmm|340_aa|-|3785|4807	>YNJS7C_contig1
+661,YNJS7C-a.gms.out.faa,gene_7|GeneMark.hmm|83_aa|-|4783|5034	>YNJS7C_contig1
+662,YNJS7C-a.gms.out.faa,gene_8|GeneMark.hmm|114_aa|-|5031|5375	>YNJS7C_contig1
+663,YNJS7C-a.gms.out.faa,gene_9|GeneMark.hmm|195_aa|-|5377|5964	>YNJS7C_contig1
+664,YNJS7C-a.gms.out.faa,gene_10|GeneMark.hmm|178_aa|-|5974|6510	>YNJS7C_contig1
+665,YNJS7C-a.gms.out.faa,gene_11|GeneMark.hmm|65_aa|-|6511|6708	>YNJS7C_contig1
+666,YNJS7C-a.gms.out.faa,gene_12|GeneMark.hmm|162_aa|-|6846|7334	>YNJS7C_contig1
+667,YNJS7C-a.gms.out.faa,gene_13|GeneMark.hmm|213_aa|-|7331|7972	>YNJS7C_contig1
+668,YNJS7C-a.gms.out.faa,gene_14|GeneMark.hmm|196_aa|-|8015|8605	>YNJS7C_contig1
+669,YNJS7C-a.gms.out.faa,gene_15|GeneMark.hmm|35_aa|-|9234|9341	>YNJS7C_contig1
+670,YNJS7C-a.gms.out.faa,gene_16|GeneMark.hmm|76_aa|-|9332|9562	>YNJS7C_contig1
+671,YNJS7C-a.gms.out.faa,gene_17|GeneMark.hmm|350_aa|-|9572|10624	>YNJS7C_contig1
+672,YNJS7C-a.gms.out.faa,gene_18|GeneMark.hmm|251_aa|-|10874|11629	>YNJS7C_contig1
+673,YNJS7C-a.gms.out.faa,gene_19|GeneMark.hmm|110_aa|-|11616|11948	>YNJS7C_contig1
+674,YNJS7C-a.gms.out.faa,gene_20|GeneMark.hmm|122_aa|-|12019|12387	>YNJS7C_contig1
+675,YNJS7C-a.gms.out.faa,gene_21|GeneMark.hmm|50_aa|+|13249|13401	>YNJS7C_contig1
+676,YNJS7C-a.gms.out.faa,gene_22|GeneMark.hmm|83_aa|+|13940|14191	>YNJS7C_contig1
+677,YNJS7C-a.gms.out.faa,gene_23|GeneMark.hmm|266_aa|+|15158|15958	>YNJS7C_contig1
+678,YNJS7C-a.gms.out.faa,gene_24|GeneMark.hmm|33_aa|+|16354|16455	>YNJS7C_contig1
+679,YNJS7C-a.gms.out.faa,gene_25|GeneMark.hmm|38_aa|+|16449|16565	>YNJS7C_contig1
+680,YNJS7C-a.gms.out.faa,gene_26|GeneMark.hmm|152_aa|+|16558|17016	>YNJS7C_contig1
+681,YNJS7C-b.gms.out.faa,gene_1|GeneMark.hmm|646_aa|-|1|1941	>YNJS7C_contig2
+682,YNJS7C-b.gms.out.faa,gene_2|GeneMark.hmm|864_aa|-|1948|4542	>YNJS7C_contig2
+683,YNJS7C-b.gms.out.faa,gene_3|GeneMark.hmm|478_aa|-|4539|5975	>YNJS7C_contig2
+684,YNJS7C-b.gms.out.faa,gene_4|GeneMark.hmm|707_aa|-|5993|8116	>YNJS7C_contig2
+685,YNJS7C-b.gms.out.faa,gene_5|GeneMark.hmm|167_aa|-|8113|8616	>YNJS7C_contig2
+686,YNJS7C-b.gms.out.faa,gene_6|GeneMark.hmm|1347_aa|-|8609|12652	>YNJS7C_contig2
+687,YNJS7C-b.gms.out.faa,gene_7|GeneMark.hmm|578_aa|-|12677|14413	>YNJS7C_contig2
+688,YNJS7C-b.gms.out.faa,gene_8|GeneMark.hmm|175_aa|-|14406|14933	>YNJS7C_contig2
+689,YNJS7C-b.gms.out.faa,gene_9|GeneMark.hmm|319_aa|-|14940|15899	>YNJS7C_contig2
+690,YNJS7C-b.gms.out.faa,gene_10|GeneMark.hmm|233_aa|-|15925|16626	>YNJS7C_contig2
+691,YNJS7C-b.gms.out.faa,gene_11|GeneMark.hmm|109_aa|-|16637|16966	>YNJS7C_contig2
+692,YNJS7C-b.gms.out.faa,gene_12|GeneMark.hmm|556_aa|-|16959|18629	>YNJS7C_contig2
+693,YNJS7C-b.gms.out.faa,gene_13|GeneMark.hmm|110_aa|-|18626|18958	>YNJS7C_contig2
+694,YNJS7C-b.gms.out.faa,gene_14|GeneMark.hmm|141_aa|-|18955|19380	>YNJS7C_contig2
+695,YNJS7C-b.gms.out.faa,gene_15|GeneMark.hmm|511_aa|-|19367|20902	>YNJS7C_contig2
+696,YNJS7C-b.gms.out.faa,gene_16|GeneMark.hmm|162_aa|-|21437|21925	>YNJS7C_contig2
+697,YNJS7C-b.gms.out.faa,gene_17|GeneMark.hmm|185_aa|-|23342|23899	>YNJS7C_contig2
+698,YNJS7C-b.gms.out.faa,gene_18|GeneMark.hmm|204_aa|+|24120|24734	>YNJS7C_contig2
+699,YNJS7C-b.gms.out.faa,gene_19|GeneMark.hmm|68_aa|+|24870|25076	>YNJS7C_contig2
+700,YNJS7C-b.gms.out.faa,gene_20|GeneMark.hmm|62_aa|+|25155|25343	>YNJS7C_contig2
+701,YNJS7C-b.gms.out.faa,gene_21|GeneMark.hmm|85_aa|-|25435|25692	>YNJS7C_contig2
+702,YNJS7C-b.gms.out.faa,gene_22|GeneMark.hmm|789_aa|-|25740|28109	>YNJS7C_contig2
+703,YNJS7C-b.gms.out.faa,gene_23|GeneMark.hmm|129_aa|-|28110|28499	>YNJS7C_contig2
+704,YNJS7C-b.gms.out.faa,gene_24|GeneMark.hmm|68_aa|-|28517|28723	>YNJS7C_contig2
+705,YNJS7C-b.gms.out.faa,gene_25|GeneMark.hmm|87_aa|-|28720|28983	>YNJS7C_contig2
+706,YNJS7C-b.gms.out.faa,gene_26|GeneMark.hmm|123_aa|+|29180|29551	>YNJS7C_contig2
+707,YNJS7C-b.gms.out.faa,gene_27|GeneMark.hmm|107_aa|+|29641|29964	>YNJS7C_contig2
+708,YNJS7C-b.gms.out.faa,gene_28|GeneMark.hmm|388_aa|+|30092|31258	>YNJS7C_contig2
+709,YNJS7C-b.gms.out.faa,gene_29|GeneMark.hmm|263_aa|+|31429|32220	>YNJS7C_contig2
+710,YNJS7C-b.gms.out.faa,gene_30|GeneMark.hmm|216_aa|+|32238|32888	>YNJS7C_contig2
+711,YNJS7C-b.gms.out.faa,gene_31|GeneMark.hmm|675_aa|+|32892|34919	>YNJS7C_contig2
+712,YNJS7C-b.gms.out.faa,gene_32|GeneMark.hmm|103_aa|+|34916|35227	>YNJS7C_contig2
+713,YNJS7C-b.gms.out.faa,gene_33|GeneMark.hmm|461_aa|+|35212|36597	>YNJS7C_contig2
+714,YNJS7C-b.gms.out.faa,gene_34|GeneMark.hmm|119_aa|+|36590|36949	>YNJS7C_contig2
+715,YNJS7C-b.gms.out.faa,gene_35|GeneMark.hmm|186_aa|+|36951|37511	>YNJS7C_contig2
+716,YNJS7C-b.gms.out.faa,gene_36|GeneMark.hmm|63_aa|+|37504|37695	>YNJS7C_contig2
+717,YNJS7C-b.gms.out.faa,gene_37|GeneMark.hmm|348_aa|+|37692|38738	>YNJS7C_contig2
+718,YNJS7C-c.gms.out.faa,gene_1|GeneMark.hmm|432_aa|-|50|1348	>YNJS7C_contig3
+719,YNJS7C-c.gms.out.faa,gene_2|GeneMark.hmm|169_aa|-|1883|2392	>YNJS7C_contig3
+720,YNJS7C-c.gms.out.faa,gene_3|GeneMark.hmm|181_aa|-|3807|4352	>YNJS7C_contig3
+721,YNJS7C-c.gms.out.faa,gene_4|GeneMark.hmm|73_aa|+|4562|4783	>YNJS7C_contig3
+722,YNJS7C-c.gms.out.faa,gene_5|GeneMark.hmm|130_aa|+|4866|5258	>YNJS7C_contig3
+723,YNJS7C-c.gms.out.faa,gene_6|GeneMark.hmm|68_aa|+|5395|5601	>YNJS7C_contig3
+724,YNJS7C-c.gms.out.faa,gene_7|GeneMark.hmm|70_aa|+|5594|5806	>YNJS7C_contig3
+725,YNJS7C-c.gms.out.faa,gene_8|GeneMark.hmm|110_aa|+|5838|6170	>YNJS7C_contig3
+726,YNJS7C-c.gms.out.faa,gene_9|GeneMark.hmm|61_aa|+|6283|6468	>YNJS7C_contig3
+727,YNJS7C-c.gms.out.faa,gene_10|GeneMark.hmm|92_aa|-|6699|6977	>YNJS7C_contig3
+728,YNJS7C-c.gms.out.faa,gene_11|GeneMark.hmm|789_aa|-|7025|9394	>YNJS7C_contig3
+729,YNJS7C-c.gms.out.faa,gene_12|GeneMark.hmm|129_aa|-|9395|9784	>YNJS7C_contig3
+730,YNJS7C-c.gms.out.faa,gene_13|GeneMark.hmm|68_aa|-|9802|10008	>YNJS7C_contig3
+731,YNJS7C-c.gms.out.faa,gene_14|GeneMark.hmm|123_aa|+|10464|10835	>YNJS7C_contig3
+732,YNJS7C-c.gms.out.faa,gene_15|GeneMark.hmm|107_aa|+|10925|11248	>YNJS7C_contig3
+733,YNJS7C-c.gms.out.faa,gene_16|GeneMark.hmm|388_aa|+|11376|12542	>YNJS7C_contig3
+734,YNJS7C-c.gms.out.faa,gene_17|GeneMark.hmm|263_aa|+|12713|13504	>YNJS7C_contig3
+735,YNJS7C-c.gms.out.faa,gene_18|GeneMark.hmm|216_aa|+|13522|14172	>YNJS7C_contig3
+736,YNJS7C-c.gms.out.faa,gene_19|GeneMark.hmm|675_aa|+|14176|16203	>YNJS7C_contig3
+737,YNJS7C-c.gms.out.faa,gene_20|GeneMark.hmm|103_aa|+|16200|16511	>YNJS7C_contig3
+738,YNJS7C-c.gms.out.faa,gene_21|GeneMark.hmm|461_aa|+|16496|17881	>YNJS7C_contig3
+739,YNJS7C-c.gms.out.faa,gene_22|GeneMark.hmm|119_aa|+|17874|18233	>YNJS7C_contig3
+740,YNJS7C-c.gms.out.faa,gene_23|GeneMark.hmm|190_aa|+|18235|18807	>YNJS7C_contig3
+741,YNJS7C-c.gms.out.faa,gene_24|GeneMark.hmm|128_aa|+|18879|19265	>YNJS7C_contig3
+742,gxpsy-a.gms.out.faa,gene_1|GeneMark.hmm|378_aa|-|1|1137	>gxpsy_1
+743,gxpsy-a.gms.out.faa,gene_2|GeneMark.hmm|150_aa|-|1275|1727	>gxpsy_1
+744,gxpsy-a.gms.out.faa,gene_3|GeneMark.hmm|56_aa|-|1731|1901	>gxpsy_1
+745,gxpsy-a.gms.out.faa,gene_4|GeneMark.hmm|154_aa|-|2012|2476	>gxpsy_1
+746,gxpsy-a.gms.out.faa,gene_5|GeneMark.hmm|113_aa|+|2546|2887	>gxpsy_1
+747,gxpsy-a.gms.out.faa,gene_6|GeneMark.hmm|405_aa|-|3173|4390	>gxpsy_1
+748,gxpsy-a.gms.out.faa,gene_7|GeneMark.hmm|162_aa|-|4506|4994	>gxpsy_1
+749,gxpsy-a.gms.out.faa,gene_8|GeneMark.hmm|159_aa|-|5249|5728	>gxpsy_1
+750,gxpsy-a.gms.out.faa,gene_9|GeneMark.hmm|340_aa|-|5731|6753	>gxpsy_1
+751,gxpsy-a.gms.out.faa,gene_10|GeneMark.hmm|83_aa|-|6729|6980	>gxpsy_1
+752,gxpsy-a.gms.out.faa,gene_11|GeneMark.hmm|114_aa|-|6977|7321	>gxpsy_1
+753,gxpsy-a.gms.out.faa,gene_12|GeneMark.hmm|195_aa|-|7323|7910	>gxpsy_1
+754,gxpsy-a.gms.out.faa,gene_13|GeneMark.hmm|178_aa|-|7920|8456	>gxpsy_1
+755,gxpsy-a.gms.out.faa,gene_14|GeneMark.hmm|65_aa|-|8457|8654	>gxpsy_1
+756,gxpsy-a.gms.out.faa,gene_15|GeneMark.hmm|162_aa|-|8792|9280	>gxpsy_1
+757,gxpsy-a.gms.out.faa,gene_16|GeneMark.hmm|184_aa|-|9366|9920	>gxpsy_1
+758,gxpsy-a.gms.out.faa,gene_17|GeneMark.hmm|196_aa|-|9963|10553	>gxpsy_1
+759,gxpsy-a.gms.out.faa,gene_18|GeneMark.hmm|35_aa|-|11182|11289	>gxpsy_1
+760,gxpsy-a.gms.out.faa,gene_19|GeneMark.hmm|76_aa|-|11280|11510	>gxpsy_1
+761,gxpsy-a.gms.out.faa,gene_20|GeneMark.hmm|350_aa|-|11520|12572	>gxpsy_1
+762,gxpsy-a.gms.out.faa,gene_21|GeneMark.hmm|251_aa|-|12822|13577	>gxpsy_1
+763,gxpsy-a.gms.out.faa,gene_22|GeneMark.hmm|110_aa|-|13564|13896	>gxpsy_1
+764,gxpsy-a.gms.out.faa,gene_23|GeneMark.hmm|122_aa|-|13967|14335	>gxpsy_1
+765,gxpsy-a.gms.out.faa,gene_24|GeneMark.hmm|50_aa|+|15197|15349	>gxpsy_1
+766,gxpsy-a.gms.out.faa,gene_25|GeneMark.hmm|83_aa|+|15888|16139	>gxpsy_1
+767,gxpsy-a.gms.out.faa,gene_26|GeneMark.hmm|266_aa|+|17106|17906	>gxpsy_1
+768,gxpsy-a.gms.out.faa,gene_27|GeneMark.hmm|33_aa|+|18302|18403	>gxpsy_1
+769,gxpsy-a.gms.out.faa,gene_28|GeneMark.hmm|38_aa|+|18397|18513	>gxpsy_1
+770,gxpsy-a.gms.out.faa,gene_29|GeneMark.hmm|152_aa|+|18506|18964	>gxpsy_1
+771,gxpsy-b.gms.out.faa,gene_1|GeneMark.hmm|233_aa|-|1|702	>gxpsy_2_2
+772,gxpsy-b.gms.out.faa,gene_2|GeneMark.hmm|136_aa|+|815|1225	>gxpsy_2_2
+773,gxpsy-b.gms.out.faa,gene_3|GeneMark.hmm|198_aa|+|1230|1826	>gxpsy_2_2
+774,gxpsy-b.gms.out.faa,gene_4|GeneMark.hmm|675_aa|+|1829|3856	>gxpsy_2_2
+775,gxpsy-b.gms.out.faa,gene_5|GeneMark.hmm|98_aa|+|3853|4149	>gxpsy_2_2
+776,gxpsy-b.gms.out.faa,gene_6|GeneMark.hmm|461_aa|+|4140|5525	>gxpsy_2_2
+777,gxpsy-b.gms.out.faa,gene_7|GeneMark.hmm|119_aa|+|5518|5877	>gxpsy_2_2
+778,gxpsy-b.gms.out.faa,gene_8|GeneMark.hmm|190_aa|+|5879|6451	>gxpsy_2_2
+779,gxpsy-b.gms.out.faa,gene_9|GeneMark.hmm|137_aa|+|6496|6909	>gxpsy_2_2
+780,gxpsy-b.gms.out.faa,gene_10|GeneMark.hmm|246_aa|+|7120|7860	>gxpsy_2_2
+781,gxpsy-b.gms.out.faa,gene_11|GeneMark.hmm|157_aa|-|7916|8389	>gxpsy_2_2
+782,gxpsy-b.gms.out.faa,gene_12|GeneMark.hmm|90_aa|-|8386|8658	>gxpsy_2_2
+783,gxpsy-b.gms.out.faa,gene_13|GeneMark.hmm|51_aa|-|8746|8901	>gxpsy_2_2
+784,gxpsy-b.gms.out.faa,gene_14|GeneMark.hmm|178_aa|+|9226|9762	>gxpsy_2_2
+785,gxpsy-b.gms.out.faa,gene_15|GeneMark.hmm|143_aa|+|9738|10169	>gxpsy_2_2
+786,gxpsy-b.gms.out.faa,gene_16|GeneMark.hmm|158_aa|-|10190|10666	>gxpsy_2_2
+787,gxpsy-b.gms.out.faa,gene_17|GeneMark.hmm|90_aa|-|10663|10935	>gxpsy_2_2
+788,gxpsy-b.gms.out.faa,gene_18|GeneMark.hmm|394_aa|-|10928|12112	>gxpsy_2_2
+789,gxpsy-b.gms.out.faa,gene_19|GeneMark.hmm|810_aa|-|12109|14541	>gxpsy_2_2
+790,gxpsy-b.gms.out.faa,gene_20|GeneMark.hmm|407_aa|-|14538|15761	>gxpsy_2_2
+791,gxpsy-b.gms.out.faa,gene_21|GeneMark.hmm|753_aa|-|15745|18006	>gxpsy_2_2
+792,gxpsy-b.gms.out.faa,gene_22|GeneMark.hmm|162_aa|-|18008|18496	>gxpsy_2_2
+793,gxpsy-b.gms.out.faa,gene_23|GeneMark.hmm|574_aa|-|18498|20222	>gxpsy_2_2
+794,gxpsy-b.gms.out.faa,gene_24|GeneMark.hmm|565_aa|-|20304|22001	>gxpsy_2_2
+795,gxpsy-b.gms.out.faa,gene_25|GeneMark.hmm|171_aa|-|21994|22509	>gxpsy_2_2
+796,gxpsy-b.gms.out.faa,gene_26|GeneMark.hmm|343_aa|-|22509|23540	>gxpsy_2_2
+797,gxpsy-b.gms.out.faa,gene_27|GeneMark.hmm|246_aa|-|23553|24293	>gxpsy_2_2
+798,gxpsy-b.gms.out.faa,gene_28|GeneMark.hmm|90_aa|-|24305|24577	>gxpsy_2_2
+799,gxpsy-b.gms.out.faa,gene_29|GeneMark.hmm|539_aa|-|24574|26193	>gxpsy_2_2
+800,gxpsy-b.gms.out.faa,gene_30|GeneMark.hmm|515_aa|-|26196|27743	>gxpsy_2_2
+801,gxpsy-b.gms.out.faa,gene_31|GeneMark.hmm|169_aa|-|28278|28787	>gxpsy_2_2
+802,gxpsy-b.gms.out.faa,gene_32|GeneMark.hmm|181_aa|-|30079|30624	>gxpsy_2_2
+803,gxpsy-b.gms.out.faa,gene_33|GeneMark.hmm|73_aa|+|30834|31055	>gxpsy_2_2
+804,gxpsy-b.gms.out.faa,gene_34|GeneMark.hmm|130_aa|+|31138|31530	>gxpsy_2_2
+805,gxpsy-b.gms.out.faa,gene_35|GeneMark.hmm|68_aa|+|31667|31873	>gxpsy_2_2
+806,gxpsy-b.gms.out.faa,gene_36|GeneMark.hmm|70_aa|+|31866|32078	>gxpsy_2_2
+807,gxpsy-b.gms.out.faa,gene_37|GeneMark.hmm|110_aa|+|32110|32442	>gxpsy_2_2
+808,gxpsy-b.gms.out.faa,gene_38|GeneMark.hmm|61_aa|+|32555|32740	>gxpsy_2_2
+809,gxpsy-b.gms.out.faa,gene_39|GeneMark.hmm|114_aa|-|32971|33315	>gxpsy_2_2
+810,gxpsy-b.gms.out.faa,gene_40|GeneMark.hmm|790_aa|-|33363|35735	>gxpsy_2_2
+811,gxpsy-b.gms.out.faa,gene_41|GeneMark.hmm|129_aa|-|35736|36125	>gxpsy_2_2
+812,gxpsy-b.gms.out.faa,gene_42|GeneMark.hmm|68_aa|-|36143|36349	>gxpsy_2_2
+813,gxpsy-b.gms.out.faa,gene_43|GeneMark.hmm|123_aa|+|36805|37176	>gxpsy_2_2
+814,gxpsy-b.gms.out.faa,gene_44|GeneMark.hmm|107_aa|+|37266|37589	>gxpsy_2_2
+815,gxpsy-b.gms.out.faa,gene_45|GeneMark.hmm|388_aa|+|37717|38883	>gxpsy_2_2
+816,gxpsy-b.gms.out.faa,gene_46|GeneMark.hmm|263_aa|+|39054|39845	>gxpsy_2_2
+817,gxpsy-b.gms.out.faa,gene_47|GeneMark.hmm|216_aa|+|39863|40513	>gxpsy_2_2
+818,gxpsy-b.gms.out.faa,gene_48|GeneMark.hmm|675_aa|+|40517|42544	>gxpsy_2_2
+819,gxpsy-b.gms.out.faa,gene_49|GeneMark.hmm|103_aa|+|42541|42852	>gxpsy_2_2
+820,gxpsy-b.gms.out.faa,gene_50|GeneMark.hmm|461_aa|+|42837|44222	>gxpsy_2_2
+821,gxpsy-b.gms.out.faa,gene_51|GeneMark.hmm|119_aa|+|44215|44574	>gxpsy_2_2
+822,gxpsy-b.gms.out.faa,gene_52|GeneMark.hmm|185_aa|+|44576|45133	>gxpsy_2_2
+823,gxpsy-b.gms.out.faa,gene_53|GeneMark.hmm|116_aa|+|45297|45647	>gxpsy_2_2
+824,gxpsy-b.gms.out.faa,gene_54|GeneMark.hmm|157_aa|-|45651|46124	>gxpsy_2_2
+825,gxpsy-b.gms.out.faa,gene_55|GeneMark.hmm|90_aa|-|46121|46393	>gxpsy_2_2
+826,gxpsy-b.gms.out.faa,gene_56|GeneMark.hmm|537_aa|-|46386|47999	>gxpsy_2_2
+827,gxpsy-c.gms.out.faa,gene_1|GeneMark.hmm|257_aa|-|1|771	>gxpsy_2_1
+828,gxpsy-c.gms.out.faa,gene_2|GeneMark.hmm|864_aa|-|778|3372	>gxpsy_2_1
+829,gxpsy-c.gms.out.faa,gene_3|GeneMark.hmm|478_aa|-|3369|4805	>gxpsy_2_1
+830,gxpsy-c.gms.out.faa,gene_4|GeneMark.hmm|707_aa|-|4823|6946	>gxpsy_2_1
+831,gxpsy-c.gms.out.faa,gene_5|GeneMark.hmm|169_aa|-|6943|7452	>gxpsy_2_1
+832,gxpsy-c.gms.out.faa,gene_6|GeneMark.hmm|1347_aa|-|7445|11488	>gxpsy_2_1
+833,gxpsy-c.gms.out.faa,gene_7|GeneMark.hmm|578_aa|-|11513|13249	>gxpsy_2_1
+834,gxpsy-c.gms.out.faa,gene_8|GeneMark.hmm|175_aa|-|13242|13769	>gxpsy_2_1
+835,gxpsy-c.gms.out.faa,gene_9|GeneMark.hmm|319_aa|-|13776|14735	>gxpsy_2_1
+836,gxpsy-c.gms.out.faa,gene_10|GeneMark.hmm|233_aa|-|14761|15462	>gxpsy_2_1
+837,gxpsy-c.gms.out.faa,gene_11|GeneMark.hmm|109_aa|-|15473|15802	>gxpsy_2_1
+838,gxpsy-c.gms.out.faa,gene_12|GeneMark.hmm|556_aa|-|15795|17465	>gxpsy_2_1
+839,gxpsy-c.gms.out.faa,gene_13|GeneMark.hmm|110_aa|-|17462|17794	>gxpsy_2_1
+840,gxpsy-c.gms.out.faa,gene_14|GeneMark.hmm|141_aa|-|17791|18216	>gxpsy_2_1
+841,gxpsy-c.gms.out.faa,gene_15|GeneMark.hmm|511_aa|-|18203|19738	>gxpsy_2_1
+842,gxpsy-c.gms.out.faa,gene_16|GeneMark.hmm|162_aa|-|20273|20761	>gxpsy_2_1
+843,gxpsy-c.gms.out.faa,gene_17|GeneMark.hmm|205_aa|-|21865|22482	>gxpsy_2_1
+844,gxpsy-c.gms.out.faa,gene_18|GeneMark.hmm|200_aa|+|22652|23254	>gxpsy_2_1
+845,gxpsy-c.gms.out.faa,gene_19|GeneMark.hmm|130_aa|+|23316|23708	>gxpsy_2_1
+846,gxpsy-c.gms.out.faa,gene_20|GeneMark.hmm|68_aa|+|23845|24051	>gxpsy_2_1
+847,gxpsy-c.gms.out.faa,gene_21|GeneMark.hmm|70_aa|+|24044|24256	>gxpsy_2_1
+848,gxpsy-c.gms.out.faa,gene_22|GeneMark.hmm|110_aa|+|24288|24620	>gxpsy_2_1
+849,gxpsy-c.gms.out.faa,gene_23|GeneMark.hmm|103_aa|-|24874|25185	>gxpsy_2_1
+850,gxpsy-c.gms.out.faa,gene_24|GeneMark.hmm|789_aa|-|25233|27602	>gxpsy_2_1
+851,gxpsy-c.gms.out.faa,gene_25|GeneMark.hmm|129_aa|-|27603|27992	>gxpsy_2_1
+852,gxpsy-c.gms.out.faa,gene_26|GeneMark.hmm|68_aa|-|28010|28216	>gxpsy_2_1
+853,gxpsy-c.gms.out.faa,gene_27|GeneMark.hmm|123_aa|+|28673|29044	>gxpsy_2_1
+854,gxpsy-c.gms.out.faa,gene_28|GeneMark.hmm|107_aa|+|29134|29457	>gxpsy_2_1
+855,gxpsy-c.gms.out.faa,gene_29|GeneMark.hmm|388_aa|+|29585|30751	>gxpsy_2_1
+856,gxpsy-c.gms.out.faa,gene_30|GeneMark.hmm|263_aa|+|30922|31713	>gxpsy_2_1
+857,gxpsy-c.gms.out.faa,gene_31|GeneMark.hmm|216_aa|+|31731|32381	>gxpsy_2_1
+858,gxpsy-c.gms.out.faa,gene_32|GeneMark.hmm|675_aa|+|32385|34412	>gxpsy_2_1
+859,gxpsy-c.gms.out.faa,gene_33|GeneMark.hmm|103_aa|+|34409|34720	>gxpsy_2_1
+860,gxpsy-c.gms.out.faa,gene_34|GeneMark.hmm|461_aa|+|34705|36090	>gxpsy_2_1
+861,gxpsy-c.gms.out.faa,gene_35|GeneMark.hmm|119_aa|+|36083|36442	>gxpsy_2_1
+862,gxpsy-c.gms.out.faa,gene_36|GeneMark.hmm|186_aa|+|36444|37004	>gxpsy_2_1
+863,gxpsy-c.gms.out.faa,gene_37|GeneMark.hmm|63_aa|+|36997|37188	>gxpsy_2_1
+864,gxpsy-c.gms.out.faa,gene_38|GeneMark.hmm|348_aa|+|37185|38231	>gxpsy_2_1
+865,gxpsy-c.gms.out.faa,gene_39|GeneMark.hmm|183_aa|-|38428|38979	>gxpsy_2_1
+866,gxpsy-c.gms.out.faa,gene_40|GeneMark.hmm|70_aa|-|39412|39624	>gxpsy_2_1
+867,gxpsy-c.gms.out.faa,gene_41|GeneMark.hmm|125_aa|+|39784|40161	>gxpsy_2_1
+868,psy62-b.gms.out.faa,gene_1|GeneMark.hmm|71_aa|+|2|217	>psy62_2
+869,psy62-b.gms.out.faa,gene_2|GeneMark.hmm|73_aa|+|369|590	>psy62_2
+870,psy62-b.gms.out.faa,gene_3|GeneMark.hmm|94_aa|-|1216|1500	>psy62_2
+871,psy62-b.gms.out.faa,gene_4|GeneMark.hmm|70_aa|-|1645|1857	>psy62_2
+872,psy62-b.gms.out.faa,gene_5|GeneMark.hmm|83_aa|-|2683|2934	>psy62_2
+873,psy62-b.gms.out.faa,gene_6|GeneMark.hmm|364_aa|-|4419|5513	>psy62_2
+874,psy62-b.gms.out.faa,gene_7|GeneMark.hmm|185_aa|-|5911|6468	>psy62_2
+875,psy62-b.gms.out.faa,gene_8|GeneMark.hmm|253_aa|-|8136|8897	>psy62_2
+876,psy62-b.gms.out.faa,gene_9|GeneMark.hmm|233_aa|-|8854|9555	>psy62_2
+877,psy62-b.gms.out.faa,gene_10|GeneMark.hmm|136_aa|+|9668|10078	>psy62_2
+878,psy62-b.gms.out.faa,gene_11|GeneMark.hmm|198_aa|+|10083|10679	>psy62_2
+879,psy62-b.gms.out.faa,gene_12|GeneMark.hmm|675_aa|+|10682|12709	>psy62_2
+880,psy62-b.gms.out.faa,gene_13|GeneMark.hmm|98_aa|+|12706|13002	>psy62_2
+881,psy62-b.gms.out.faa,gene_14|GeneMark.hmm|460_aa|+|12993|14375	>psy62_2
+882,psy62-b.gms.out.faa,gene_15|GeneMark.hmm|119_aa|+|14368|14727	>psy62_2
+883,psy62-b.gms.out.faa,gene_16|GeneMark.hmm|185_aa|+|14729|15286	>psy62_2
+884,psy62-b.gms.out.faa,gene_17|GeneMark.hmm|123_aa|+|15450|15821	>psy62_2
+885,psy62-b.gms.out.faa,gene_18|GeneMark.hmm|157_aa|-|15825|16298	>psy62_2
+886,psy62-b.gms.out.faa,gene_19|GeneMark.hmm|90_aa|-|16295|16567	>psy62_2
+887,psy62-b.gms.out.faa,gene_20|GeneMark.hmm|919_aa|-|16560|19319	>psy62_2
+888,psy62-b.gms.out.faa,gene_21|GeneMark.hmm|864_aa|-|19326|21920	>psy62_2
+889,psy62-b.gms.out.faa,gene_22|GeneMark.hmm|478_aa|-|21917|23353	>psy62_2
+890,psy62-b.gms.out.faa,gene_23|GeneMark.hmm|707_aa|-|23371|25494	>psy62_2
+891,psy62-b.gms.out.faa,gene_24|GeneMark.hmm|167_aa|-|25491|25994	>psy62_2
+892,psy62-b.gms.out.faa,gene_25|GeneMark.hmm|1246_aa|-|25987|29727	>psy62_2
+893,psy62-b.gms.out.faa,gene_26|GeneMark.hmm|80_aa|-|29766|30008	>psy62_2
+894,psy62-b.gms.out.faa,gene_27|GeneMark.hmm|578_aa|-|30033|31769	>psy62_2
+895,psy62-b.gms.out.faa,gene_28|GeneMark.hmm|175_aa|-|31762|32289	>psy62_2
+896,psy62-b.gms.out.faa,gene_29|GeneMark.hmm|343_aa|-|32289|33320	>psy62_2
+897,psy62-b.gms.out.faa,gene_30|GeneMark.hmm|234_aa|-|33333|34037	>psy62_2
+898,psy62-b.gms.out.faa,gene_31|GeneMark.hmm|109_aa|-|34048|34377	>psy62_2
+899,psy62-b.gms.out.faa,gene_32|GeneMark.hmm|556_aa|-|34370|36040	>psy62_2
+900,psy62-b.gms.out.faa,gene_33|GeneMark.hmm|110_aa|-|36037|36369	>psy62_2
+901,psy62-b.gms.out.faa,gene_34|GeneMark.hmm|511_aa|-|36442|37977	>psy62_2
+902,psy62-b.gms.out.faa,gene_35|GeneMark.hmm|162_aa|-|38512|39000	>psy62_2
+903,psy62-b.gms.out.faa,gene_36|GeneMark.hmm|205_aa|-|40104|40721	>psy62_2
+904,psy62-b.gms.out.faa,gene_37|GeneMark.hmm|200_aa|+|40891|41493	>psy62_2
+905,psy62-b.gms.out.faa,gene_38|GeneMark.hmm|130_aa|+|41555|41947	>psy62_2
+906,psy62-b.gms.out.faa,gene_39|GeneMark.hmm|68_aa|+|42083|42289	>psy62_2
+907,psy62-b.gms.out.faa,gene_40|GeneMark.hmm|70_aa|+|42282|42494	>psy62_2
+908,psy62-b.gms.out.faa,gene_41|GeneMark.hmm|110_aa|+|42526|42858	>psy62_2
+909,psy62-b.gms.out.faa,gene_42|GeneMark.hmm|103_aa|-|43112|43423	>psy62_2
+910,psy62-b.gms.out.faa,gene_43|GeneMark.hmm|786_aa|-|43471|45831	>psy62_2
+911,psy62-c.gms.out.faa,gene_1|GeneMark.hmm|103_aa|-|1|312	>psy62_3
+912,psy62-c.gms.out.faa,gene_2|GeneMark.hmm|378_aa|-|602|1738	>psy62_3
+913,psy62-c.gms.out.faa,gene_3|GeneMark.hmm|150_aa|-|1876|2328	>psy62_3
+914,psy62-c.gms.out.faa,gene_4|GeneMark.hmm|238_aa|-|2332|3048	>psy62_3
+915,psy62-c.gms.out.faa,gene_5|GeneMark.hmm|159_aa|-|3303|3782	>psy62_3
+916,psy62-c.gms.out.faa,gene_6|GeneMark.hmm|340_aa|-|3785|4807	>psy62_3
+917,psy62-c.gms.out.faa,gene_7|GeneMark.hmm|83_aa|-|4783|5034	>psy62_3
+918,psy62-c.gms.out.faa,gene_8|GeneMark.hmm|114_aa|-|5031|5375	>psy62_3
+919,psy62-c.gms.out.faa,gene_9|GeneMark.hmm|195_aa|-|5377|5964	>psy62_3
+920,psy62-c.gms.out.faa,gene_10|GeneMark.hmm|178_aa|-|5974|6510	>psy62_3
+921,psy62-c.gms.out.faa,gene_11|GeneMark.hmm|65_aa|-|6511|6708	>psy62_3
+922,psy62-c.gms.out.faa,gene_12|GeneMark.hmm|162_aa|-|6846|7334	>psy62_3
+923,psy62-c.gms.out.faa,gene_13|GeneMark.hmm|213_aa|-|7331|7972	>psy62_3
+924,psy62-c.gms.out.faa,gene_14|GeneMark.hmm|196_aa|-|8015|8605	>psy62_3
+925,psy62-c.gms.out.faa,gene_15|GeneMark.hmm|35_aa|-|9234|9341	>psy62_3
+926,psy62-c.gms.out.faa,gene_16|GeneMark.hmm|76_aa|-|9332|9562	>psy62_3
+927,psy62-c.gms.out.faa,gene_17|GeneMark.hmm|350_aa|-|9572|10624	>psy62_3
+928,psy62-c.gms.out.faa,gene_18|GeneMark.hmm|251_aa|-|10874|11629	>psy62_3
+929,psy62-c.gms.out.faa,gene_19|GeneMark.hmm|110_aa|-|11616|11948	>psy62_3
+930,psy62-c.gms.out.faa,gene_20|GeneMark.hmm|122_aa|-|12019|12387	>psy62_3
+931,psy62-c.gms.out.faa,gene_21|GeneMark.hmm|50_aa|+|13249|13401	>psy62_3
+932,psy62-c.gms.out.faa,gene_22|GeneMark.hmm|83_aa|+|13940|14191	>psy62_3
+933,psy62-c.gms.out.faa,gene_23|GeneMark.hmm|266_aa|+|15157|15957	>psy62_3
+934,psy62-c.gms.out.faa,gene_24|GeneMark.hmm|33_aa|+|16353|16454	>psy62_3
+935,psy62-c.gms.out.faa,gene_25|GeneMark.hmm|38_aa|+|16448|16564	>psy62_3
+936,psy62-c.gms.out.faa,gene_26|GeneMark.hmm|152_aa|+|16557|17015	>psy62_3

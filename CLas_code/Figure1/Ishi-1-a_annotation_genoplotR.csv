@@ -1,0 +1,25 @@
+gene_1,-,1,312,hypothetical protein,gray
+gene_2,-,602,1738,hypothetical protein,gray
+gene_3,-,1876,2328,hypothetical protein,gray
+gene_4,-,2332,3048,hypothetical protein,gray
+gene_5,-,3303,3782,hypothetical protein,gray 
+gene_6,-,3785,4807,hypothetical protein,gray
+gene_7,-,4783,5034,hypothetical protein,gray
+gene_8,-,5031,5375,hypothetical protein,gray
+gene_9,-,5377,5964,hypothetical protein,gray
+gene_10,-,5974,6510,hypothetical protein,gray
+gene_11,-,6511,6708,hypothetical protein,gray
+gene_12,-,6846,7334,head protein,cyan
+gene_13,-,7331,7972,head protein,cyan
+gene_14,-,8015,8605,hypothetical protein,gray
+gene_15,-,9234,9341,hypothetical protein,gray
+gene_16,-,9332,9562,phage portal protein,cyan
+gene_17,-,9572,10624,phage portal protein,cyan
+gene_18,-,10874,11629,DNA packaging protein,cyan
+gene_19,-,11616,11948,DNA packaging protein,cyan
+gene_20,-,12019,12387,hypothetical protein,gray
+gene_22,+,13941,14192,XRE family transcriptional regulator,pink
+gene_23,+,15159,15959,replicative DNA helicase,pink
+gene_24,+,16355,16456,DNA helicase,pink
+gene_25,+,16450,16566,hypothetical protein CLIBASIA_05290,gray
+gene_26,+,16559,17017,DUF1376 domain-containing protein,gray

@@ -1,0 +1,1087 @@
+cluster 1_- size=8 taxa=8 file: 1_-.faa dnafile: void
+: A4-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 2_- size=8 taxa=8 file: 2_-.faa dnafile: void
+: A4-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 3_- size=4 taxa=4 file: 3_-.faa dnafile: void
+: A4-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+cluster 4_- size=4 taxa=4 file: 4_-.faa dnafile: void
+: A4-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+cluster 5_+ size=4 taxa=4 file: 5_+.faa dnafile: void
+: A4-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+cluster 6_- size=4 taxa=4 file: 6_-.faa dnafile: void
+: A4-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+cluster 7_- size=5 taxa=5 file: 7_-.faa dnafile: void
+: A4-a.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: JXGC-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+cluster 8_- size=11 taxa=11 file: 8_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 9_- size=11 taxa=11 file: 9_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 10_- size=11 taxa=11 file: 10_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 11_- size=11 taxa=11 file: 11_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 12_- size=11 taxa=11 file: 12_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 13_- size=12 taxa=12 file: 13_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 14_- size=12 taxa=12 file: 14_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 15_- size=12 taxa=12 file: 15_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: SGCA5-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 16_- size=11 taxa=11 file: 16_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 17_- size=11 taxa=11 file: 17_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 18_- size=11 taxa=11 file: 18_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 19_- size=11 taxa=11 file: 19_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 20_- size=11 taxa=11 file: 20_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 21_- size=1 taxa=1 file: 21_-.faa dnafile: void
+: A4-a.gms.out.faa
+cluster 22_- size=1 taxa=1 file: 22_-.faa dnafile: void
+: A4-a.gms.out.faa
+cluster 23_- size=2 taxa=2 file: 23_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+cluster 24_- size=1 taxa=1 file: 24_-.faa dnafile: void
+: A4-a.gms.out.faa
+cluster 25_- size=10 taxa=10 file: 25_-.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 26_+ size=9 taxa=9 file: 26_+.faa dnafile: void
+: A4-a.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 27_+ size=10 taxa=10 file: 27_+.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 28_+ size=10 taxa=10 file: 28_+.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 29_+ size=9 taxa=9 file: 29_+.faa dnafile: void
+: A4-a.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 30_+ size=10 taxa=10 file: 30_+.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 31_+ size=10 taxa=10 file: 31_+.faa dnafile: void
+: A4-a.gms.out.faa
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 32_- size=3 taxa=3 file: 32_-.faa dnafile: void
+: A4-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 33_+ size=3 taxa=3 file: 33_+.faa dnafile: void
+: A4-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 34_+ size=18 taxa=16 file: 34_+.faa dnafile: void
+: A4-b.gms.out.faa
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 35_+ size=17 taxa=15 file: 35_+.faa dnafile: void
+: A4-b.gms.out.faa
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 36_+ size=16 taxa=14 file: 36_+.faa dnafile: void
+: A4-b.gms.out.faa
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 37_+ size=14 taxa=13 file: 37_+.faa dnafile: void
+: A4-b.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 38_+ size=15 taxa=15 file: 38_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 39_+ size=16 taxa=15 file: 39_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 40_+ size=8 taxa=8 file: 40_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-d.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 41_+ size=4 taxa=4 file: 41_+.faa dnafile: void
+: A4-b.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 42_- size=10 taxa=9 file: 42_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 43_- size=5 taxa=5 file: 43_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 44_- size=5 taxa=5 file: 44_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 45_+ size=4 taxa=4 file: 45_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+cluster 46_- size=5 taxa=5 file: 46_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 47_- size=10 taxa=9 file: 47_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 48_- size=8 taxa=8 file: 48_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 49_- size=14 taxa=14 file: 49_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 50_- size=6 taxa=6 file: 50_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 51_- size=14 taxa=14 file: 51_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 52_- size=5 taxa=5 file: 52_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: TX2351-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 53_- size=5 taxa=5 file: 53_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: TX2351-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 54_- size=14 taxa=14 file: 54_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 55_- size=13 taxa=13 file: 55_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 56_- size=12 taxa=12 file: 56_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 57_- size=5 taxa=5 file: 57_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 58_- size=5 taxa=5 file: 58_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 59_- size=13 taxa=13 file: 59_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 60_- size=16 taxa=15 file: 60_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-c.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 61_- size=15 taxa=15 file: 61_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-c.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 62_- size=15 taxa=15 file: 62_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-c.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 63_+ size=9 taxa=9 file: 63_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-c.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 641_+ size=15 taxa=15 file: 641_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-c.gms.out.faa
+: YCPsy-c.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 642_+ size=15 taxa=15 file: 642_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-c.gms.out.faa
+: YCPsy-c.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 643_+ size=15 taxa=15 file: 643_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-c.gms.out.faa
+: YCPsy-c.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 644_+ size=15 taxa=15 file: 644_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-c.gms.out.faa
+: YCPsy-c.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 645_+ size=9 taxa=9 file: 645_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: YCPsy-c.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 646_- size=16 taxa=16 file: 646_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-c.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 70_- size=2 taxa=2 file: 70_-.faa dnafile: void
+: A4-b.gms.out.faa
+: TX1712-b.gms.out.faa
+cluster 71_- size=1 taxa=1 file: 71_-.faa dnafile: void
+: A4-b.gms.out.faa
+cluster 72_- size=16 taxa=16 file: 72_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 73_- size=16 taxa=16 file: 73_-.faa dnafile: void
+: A4-b.gms.out.faa
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 74_- size=1 taxa=1 file: 74_-.faa dnafile: void
+: A4-b.gms.out.faa
+cluster 75_+ size=15 taxa=15 file: 75_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 76_+ size=15 taxa=15 file: 76_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 77_+ size=15 taxa=15 file: 77_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 78_+ size=15 taxa=15 file: 78_+.faa dnafile: void
+: A4-b.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YCPsy-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 89_- size=2 taxa=2 file: 89_-.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+cluster 93_+ size=2 taxa=2 file: 93_+.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+cluster 94_- size=3 taxa=3 file: 94_-.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+cluster 98_- size=2 taxa=2 file: 98_-.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+cluster 99_- size=10 taxa=10 file: 99_-.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 101_- size=1 taxa=1 file: 101_-.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+cluster 104_+ size=2 taxa=2 file: 104_+.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+: FL17-a-T4.gms.out.faa
+cluster 106_+ size=1 taxa=1 file: 106_+.faa dnafile: void
+: AHCA1-a-T4.gms.out.faa
+cluster 128_- size=2 taxa=2 file: 128_-.faa dnafile: void
+: FL17-a-T4.gms.out.faa
+: HHCA1-a.gms.out.faa
+cluster 137_- size=1 taxa=1 file: 137_-.faa dnafile: void
+: FL17-b.gms.out.faa
+cluster 138_- size=1 taxa=1 file: 138_-.faa dnafile: void
+: FL17-b.gms.out.faa
+cluster 139_- size=1 taxa=1 file: 139_-.faa dnafile: void
+: FL17-b.gms.out.faa
+cluster 141_- size=8 taxa=8 file: 141_-.faa dnafile: void
+: FL17-b.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 143_- size=8 taxa=8 file: 143_-.faa dnafile: void
+: FL17-b.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 144_- size=8 taxa=8 file: 144_-.faa dnafile: void
+: FL17-b.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 147_- size=1 taxa=1 file: 147_-.faa dnafile: void
+: FL17-b.gms.out.faa
+cluster 148_- size=1 taxa=1 file: 148_-.faa dnafile: void
+: FL17-c.gms.out.faa
+cluster 149_- size=8 taxa=8 file: 149_-.faa dnafile: void
+: FL17-c.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 150_- size=8 taxa=8 file: 150_-.faa dnafile: void
+: FL17-c.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 152_- size=8 taxa=8 file: 152_-.faa dnafile: void
+: FL17-c.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YCPsy-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 156_+ size=6 taxa=6 file: 156_+.faa dnafile: void
+: FL17-c.gms.out.faa
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 162_- size=13 taxa=13 file: 162_-.faa dnafile: void
+: FL17-c.gms.out.faa
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: P-JXGC-3.gms.out.faa
+: P-SGCA5-1.gms.out.faa
+: SC1.gms.out.faa
+: SC2.gms.out.faa
+: TX2351-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+: YNJS7C-c.gms.out.faa
+: gxpsy-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 165_+ size=2 taxa=2 file: 165_+.faa dnafile: void
+: FP2.gms.out.faa
+: YCPsy-b.gms.out.faa
+cluster 169_+ size=1 taxa=1 file: 169_+.faa dnafile: void
+: FP2.gms.out.faa
+cluster 193_+ size=1 taxa=1 file: 193_+.faa dnafile: void
+: FP2.gms.out.faa
+cluster 201_- size=7 taxa=7 file: 201_-.faa dnafile: void
+: FP2.gms.out.faa
+: P-HHCA1-2.gms.out.faa
+: SC2.gms.out.faa
+: TX1712-c.gms.out.faa
+: TX2351-a.gms.out.faa
+: TX2351-d.gms.out.faa
+: YNJS7C-b.gms.out.faa
+cluster 209_+ size=1 taxa=1 file: 209_+.faa dnafile: void
+: FP2.gms.out.faa
+cluster 219_- size=1 taxa=1 file: 219_-.faa dnafile: void
+: HHCA1-a.gms.out.faa
+cluster 222_- size=4 taxa=4 file: 222_-.faa dnafile: void
+: Ishi-1-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 225_- size=4 taxa=4 file: 225_-.faa dnafile: void
+: Ishi-1-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 240_- size=7 taxa=7 file: 240_-.faa dnafile: void
+: Ishi-1-a.gms.out.faa
+: JXGC-a.gms.out.faa
+: TX1712-a.gms.out.faa
+: YCPsy-a.gms.out.faa
+: YNJS7C-a.gms.out.faa
+: gxpsy-a.gms.out.faa
+: psy62-c.gms.out.faa
+cluster 321_+ size=1 taxa=1 file: 321_+.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+cluster 322_+ size=1 taxa=1 file: 322_+.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+cluster 323_+ size=1 taxa=1 file: 323_+.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+cluster 324_+ size=1 taxa=1 file: 324_+.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+cluster 325_+ size=1 taxa=1 file: 325_+.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+cluster 326_- size=1 taxa=1 file: 326_-.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+cluster 327_- size=1 taxa=1 file: 327_-.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+cluster 328_- size=2 taxa=1 file: 328_-.faa dnafile: void
+: P-JXGC-3.gms.out.faa
+: P-JXGC-3.gms.out.faa
+cluster 354_- size=1 taxa=1 file: 354_-.faa dnafile: void
+: P-SGCA5-1.gms.out.faa
+cluster 356_- size=1 taxa=1 file: 356_-.faa dnafile: void
+: P-SGCA5-1.gms.out.faa
+cluster 357_- size=1 taxa=1 file: 357_-.faa dnafile: void
+: P-SGCA5-1.gms.out.faa
+cluster 358_- size=1 taxa=1 file: 358_-.faa dnafile: void
+: P-SGCA5-1.gms.out.faa
+cluster 361_- size=1 taxa=1 file: 361_-.faa dnafile: void
+: P-SGCA5-1.gms.out.faa
+cluster 396_- size=1 taxa=1 file: 396_-.faa dnafile: void
+: SC1.gms.out.faa
+cluster 397_- size=1 taxa=1 file: 397_-.faa dnafile: void
+: SC1.gms.out.faa
+cluster 433_+ size=6 taxa=6 file: 433_+.faa dnafile: void
+: SC1.gms.out.faa
+: TX1712-b.gms.out.faa
+: TX2351-a.gms.out.faa
+: YCPsy-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+: psy62-b.gms.out.faa
+cluster 435_- size=1 taxa=1 file: 435_-.faa dnafile: void
+: SC2.gms.out.faa
+cluster 440_- size=1 taxa=1 file: 440_-.faa dnafile: void
+: SC2.gms.out.faa
+cluster 441_- size=1 taxa=1 file: 441_-.faa dnafile: void
+: SC2.gms.out.faa
+cluster 442_- size=1 taxa=1 file: 442_-.faa dnafile: void
+: SC2.gms.out.faa
+cluster 654_+ size=1 taxa=1 file: 654_+.faa dnafile: void
+: YCPsy-d.gms.out.faa
+cluster 681_- size=2 taxa=2 file: 681_-.faa dnafile: void
+: YNJS7C-b.gms.out.faa
+: gxpsy-b.gms.out.faa
+cluster 694_- size=2 taxa=2 file: 694_-.faa dnafile: void
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 700_+ size=1 taxa=1 file: 700_+.faa dnafile: void
+: YNJS7C-b.gms.out.faa
+cluster 716_+ size=2 taxa=2 file: 716_+.faa dnafile: void
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 717_+ size=2 taxa=2 file: 717_+.faa dnafile: void
+: YNJS7C-b.gms.out.faa
+: gxpsy-c.gms.out.faa
+cluster 777_+ size=1 taxa=1 file: 777_+.faa dnafile: void
+: gxpsy-b.gms.out.faa
+cluster 784_+ size=1 taxa=1 file: 784_+.faa dnafile: void
+: gxpsy-b.gms.out.faa
+cluster 785_+ size=1 taxa=1 file: 785_+.faa dnafile: void
+: gxpsy-b.gms.out.faa
+cluster 827_- size=1 taxa=1 file: 827_-.faa dnafile: void
+: gxpsy-c.gms.out.faa
+cluster 865_- size=1 taxa=1 file: 865_-.faa dnafile: void
+: gxpsy-c.gms.out.faa
+cluster 866_- size=1 taxa=1 file: 866_-.faa dnafile: void
+: gxpsy-c.gms.out.faa
+cluster 867_+ size=1 taxa=1 file: 867_+.faa dnafile: void
+: gxpsy-c.gms.out.faa
+cluster 868_+ size=1 taxa=1 file: 868_+.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 869_+ size=1 taxa=1 file: 869_+.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 870_- size=1 taxa=1 file: 870_-.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 871_- size=1 taxa=1 file: 871_-.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 872_- size=1 taxa=1 file: 872_-.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 874_- size=1 taxa=1 file: 874_-.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 875_- size=1 taxa=1 file: 875_-.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 887_- size=1 taxa=1 file: 887_-.faa dnafile: void
+: psy62-b.gms.out.faa
+cluster 893_- size=1 taxa=1 file: 893_-.faa dnafile: void
+: psy62-b.gms.out.faa

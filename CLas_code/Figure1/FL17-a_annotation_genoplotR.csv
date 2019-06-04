@@ -1,0 +1,80 @@
+gene_1,-,1,312,hypothetical protein,gray
+gene_2,-,602,1738,hypothetical protein,gray
+gene_3,-,1876,2328,hypothetical protein,gray
+gene_4,-,2332,2502,hypothetical protein,gray
+gene_5,-,2564,3052,hypothetical protein RH08_05070,gray
+gene_6,-,3307,3786,hypothetical protein,gray
+gene_7,-,3789,4751,hypothetical protein,gray
+gene_8,-,4787,5038,hypothetical protein,gray
+gene_9,-,5035,5379,hypothetical protein,gray
+gene_10,-,5381,5968,hypothetical protein,gray
+gene_11,-,5978,6514,hypothetical protein,gray
+gene_12,-,6515,6688,hypothetical protein,gray
+gene_13,-,6702,6836,hypothetical protein CLIBASIA_05210,gray
+gene_14,-,6850,7338,head protein,cyan 
+gene_15,-,7335,7844,head protein,cyan
+gene_16,-,8019,8588,hypothetical protein,gray
+gene_18,-,8860,9108,hypothetical protein,gray
+gene_19,-,9238,9345,phage portal protein,cyan 
+gene_20,-,9336,9566,phage portal protein,cyan 
+gene_21,-,9576,10604,phage portal protein,cyan 
+gene_22,-,10705,10893,DNA packaging protein,pink 
+gene_23,-,10878,11633,DNA packaging protein,pink 
+gene_24,-,11620,12072,DNA packaging protein,pink
+gene_25,-,12023,12391,hypothetical protein,gray
+gene_27,+,13944,14195,XRE family transcriptional regulator,pink 
+gene_28,+,15029,15172,DNA helicase,pink 
+gene_29,+,15162,15962,DNA helicase,pink 
+gene_30,+,16358,16459,replicative DNA helicase,pink 
+gene_31,+,16453,16569,DUF1376 domain-containing protein,gray 
+gene_32,+,16562,17020,DUF1376 domain-containing protein ,gray
+gene_33,+,17461,17553,ribonucleotide-diphosphate reductase subunit beta,darkolivegreen3
+gene_34,+,17852,18079,hypothetical protein,gray
+gene_35,+,18104,18301,hypothetical protein,gray
+gene_36,-,18358,18498,hypothetical protein CLIBASIA_05310,gray
+gene_37,+,18898,19362,hypothetical protein,gray
+gene_38,+,19477,19734,hypothetical protein,gray
+gene_39,-,20735,22630,peptidyl-prolyl cis-trans isomerase,darkolivegreen3
+gene_40,+,24250,24987,16S rRNA (uracil(1498)-N(3))-methyltransferase,darkolivegreen3
+gene_41,+,25058,26431,glutamate--cysteine ligase,darkolivegreen3 
+gene_42,-,26465,26965,N-acetyltransferase,darkolivegreen3 
+gene_43,-,27241,27885,hypothetical protein partial,gray
+gene_44,-,28911,29090,hypothetical protein CLIBASIA_05355,gray
+gene_45,-,29103,29708,pyridoxamine 5'-phosphate oxidase,darkolivegreen3
+gene_46,+,29851,30705,enoyl-ACP reductase,darkolivegreen3 
+gene_47,-,31001,32053,tRNA dihydrouridine(20/20a) synthase DusA,darkolivegreen3
+gene_48,+,32383,33768,PTS ascorbate transporter subunit IIC,darkolivegreen3 
+gene_49,-,33808,33930,hypothetical protein,gray
+gene_50,+,34010,35461,deoxyribodipyrimidine photo-lyase,darkolivegreen3 
+gene_51,+,35726,36988,dicarboxylate/amino acid:cation symporter,darkolivegreen3 
+gene_52,-,37082,39277,NAD-dependent DNA ligase LigA ,pink 
+gene_53,-,39395,41062,DNA repair protein RecN,pink 
+gene_54,-,41124,41939,outer membrane protein assembly factor BamD,darkolivegreen3 
+gene_55,-,42066,42956,UDP-3-O-acyl-N-acetylglucosamine deacetylase,darkolivegreen3 
+gene_56,-,43046,44554,cell division protein FtsZ,darkolivegreen3 
+gene_57,-,44657,45979,cell division protein FtsA,darkolivegreen3 
+gene_58,-,45979,46893,cell division protein,darkolivegreen3 
+gene_59,-,46881,47816,D-alanine--D-alanine ligase,darkolivegreen3 
+gene_60,+,48419,48634,hypothetical protein,gray
+gene_61,+,48750,49007,hypothetical protein,gray
+gene_63,-,49633,49917,DUF4145 domain-containing protein,gray 
+gene_64,-,50062,50274,hypothetical protein,gray
+gene_65,-,51100,51336,hypothetical protein,gray
+gene_66,+,52018,52146,hypothetical protein CLIBASIA_05460,gray
+gene_67,-,52715,52852,phage terminase large subunit,cyan 
+gene_68,-,52836,53939,terminase,cyan 
+gene_69,-,54328,54876,hypothetical protein,gray
+gene_70,-,56553,57311,hypothetical protein,gray
+gene_71,-,57271,57972,hypothetical protein partial,gray
+gene_72,+,57998,58495,DUF2800 domain-containing protein,gray 
+gene_73,+,58500,59096,DUF2815 domain-containing protein,gray 
+gene_74,+,59099,61126,DNA polymerase,pink 
+gene_75,+,61123,61419,nuclease,pink 
+gene_76,+,61410,62795,ATP-dependent helicase,pink 
+gene_77,+,62788,63147,DNA ligase,pink 
+gene_78,+,63242,63709,guanylate kinase,pink
+gene_79,+,63918,64223,hypothetical protein,gray
+gene_80,-,64227,64700,hypothetical protein,gray
+gene_81,-,64697,64969,hypothetical protein,gray
+gene_82,-,64962,65786,hypothetical protein,gray
+
